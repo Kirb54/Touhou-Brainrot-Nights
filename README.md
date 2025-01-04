@@ -1,6 +1,6 @@
 Disclaimer:
 yes ik theres alot of typos im just really dumb
-
+its alot an english only mod(if anyone wants to translate it tho feel free to)
 
 
 Intructions:
