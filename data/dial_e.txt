@@ -1,0 +1,2135 @@
+﻿英語
+
+
+@00
+You got a broken ass ability
+delete a coughing baby.*MP Cost: 40
+@01
+You got STUN KNIFE
+Disclaimer: doesnt actually stun*MP Cost: 10
+@02
+You got AUTO AIM
+shittier thousand knives*MP Cost: 30
+@03
+You got CHAINSAW
+how do you even makee these*MP Cost: 15 MP
+
+@19
+PP UP
+penis size increased by 10.
+
+@39
+MP UP
+mario party limit increased by 10.
+
+@59
+You got a KNIFE
+does knife beat paper?
+
+@69
+You got a cock
+You can now stop time *whenever you want.
+@70
+You got an cock
+cock strength has increased.
+
+
+
+
+@79
+You got SLIDING KNIFE
+fucking finally.
+
+@89
+You got RED KEY
+weak aura.
+
++purchase00
+Sell/Buy
+Sell Jewels
+Buy Items
+Leave
+
++purchase01
+Sell Jewels
+Amethyst *sell me
+Aquamarine *sell me
+Topaz *sell me
+Ruby *sell me
+Sapphire *sell me
+Emerald *sell me
+Diamond *sell me
+Sell All
+Cancel
+
+
++purchase02
+Buy Items
+PP Recovery *Recover 50 HP.
+MP Recovery *Recover 50 MP.
+TP Recovery *Completely recover the toilet gauge.
+HOW TO BE SIGMA 101 book *learn to be a sigma.
+ETERNAL COCK *Increase the cock gauge.
+KNIFE*Increase the number of knives used when time is stopped.
+EXP*Increase Experience Points.
+Cancel
+
++purchase03
+Confirm
+Cancel
+Confirm
+
+bgm00
+SWR Yukari's Theme: Night Falls ~ Evening Star
+boss00
+Metal Gear Rising: Revengeance OST - The Stains Of Time Extended
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#sa0
+$0505+3#pos,01040,01648
+How to Play 1
+Why are you playing this mod if this is your first time
+like actually
+play the game normally first
+cus im not telling you
+#end
+
+#sa2
+$0505+3#pos,01392,01648
+How to Play 2
+like seriously
+go verify the game files if this is your first time
+and if you intend to do this
+uhhh easter egg?
+#end
+
+#ta6
+$0505+3#pos,02896,01616
+How to Play 3
+ok i got bored of the signs
+#end
+
+#ta3
+$0505+3#pos,05904,01648
+How to Play 4
+...
+stop wasting your time
+#end
+
+#sa1
+$0505+3#pos,05872,02032
+How to Play 5
+THERES NO MORE
+STOP
+#end
+
+#ta4
+$0505+3#pos,10672,01680
+How to Play 6
+https://youtu.be/DxNjb5BQ8Gk?si=vJ98asCcN1tbjpqZ
+#end
+
+#sa5
+$0505+3#pos,03120,02032
+Warp Zone
+now its time to think with portals
+actually
+you dont know any other portals 
+haha loser
+#end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#s0a
+$0505+1#pos,00320,00152
+....
+Where is that
+Bitchass Sakuya
+I need to invite her to my podcast
+....
+#end
+
+
+
+#s00
+$0101#player_vision
+Haa... haa...
+Where...where am I?
+$0505+1#pos,01120,01624
+Skibidi Skibidi on the wall
+whos the Rizzler on the wall
+John 1:14
+$0101#player_vision
+....
+Remilia what are you talking about
+$0505+1#pos,01120,01624
+Sakuya
+you have been transported to a diffrent world
+we no longer use the languages of Gensokyo
+This is my domain 
+and for now on we are united under a single language
+Brainrot.
+$0101#player_vision
+brainrot?
+$0505+1#pos,01120,01624
+That's right.
+were in Ohio now
+now hustle your gyatt over here
+you need to join my podcast
+$0101#player_vision
+um ok then
+$0505+1#pos,01120,01624
+oh btw you cant stop time now
+cus thats like...
+op and shit
+you should be fine
+$0101#player_vision
+oh
+that may be a problem
+$0505+1#pos,01120,01624
+its ok
+it gives you time to pick up on the new language
+$0101#player_vision
+guess its time to learn
+#end
+
+
+#s01
+$0101#player_vision
+What was that...?
+was that Luigi
+#end
+
+
+#s04
+$0101#player_vision
+Um...You are *Hieda no Akyuu, right?
+$0202#akyuu_ob
+uh... no...
+im Hieda no Akyu
+$0101#player_vision
+that what i said
+Akyuu
+$0202#akyuu_ob
+theres only one u
+Akyu
+$0101#player_vision
+but the wiki has two u's
+Akyuu
+$0202#akyuu_ob
+yea but
+im Akyu
+dummy
+$0101#player_vision
+whatever
+what are you doing anyway
+$0202#akyuu_ob
+oh
+idk
+im just here
+$0101#player_vision
+ok i guess
+do you even do anything
+$0202#akyuu_ob
+i just answer the telephone
+to save your progress and stuff
+just incase like
+you die
+or something
+$0101#player_vision
+alright then
+ill cya in a second then
+$0202#akyuu_ob
+oh yea 
+just touch the telephone right there then
+to make sure it works
+#end
+
+
+#s02
+$1202+2#pos,04224,01632
+Hello?
+you got real excited to touch that box huh
+rizzed up that box
+the sexual tension is insane
+$0101#player_vision
+what?
+$1202+2#pos,04224,01632
+Don't worry 
+ill make sure to ship you two later
+$0101#player_vision
+kids these days
+i could barely understand them
+maybe i should ask Remilia what rizz means
+#end
+
+
+#s03
+$1303+2#pos,06304,02016
+Hello?
+$0101#player_vision
+Huh? Is this Nitori?
+Why did you pick up?
+$1303+2#pos,06304,02016
+bye bye
+$0101#player_vision
+huh
+oh she actually did hang up
+what a bummer
+whatever im wasting time with that girl anyway
+$1303+2#pos,06304,02016
+ACKTUALLY
+im a kappa
+$0101#player_vision
+what
+why are you still here
+and what does it matter that your a kappa
+$1303+2#pos,06304,02016
+...
+i just wanted to interupt you
+$0101#player_vision
+...what?
+$1303+2#pos,06304,02016
+anyway cum to my shop to get stronger
+hehe cum
+$0101#player_vision
+... ok
+$1303+2#pos,06304,02016
+oki bibi bbg
+$0101#player_vision
+???
+what does bbg mean
+maybe ill ask Remilia that too
+#end
+
+
+
+#s05
+$0303#nitori_ob
+AAAAAAAAAAAAAAA
+ARE YOU A GIRL???
+$0101#player_vision
+huh...
+.. yes i am?
+$0303#nitori_ob
+Sigma rule number 1.
+Never back down
+AND NEVER GIVE UP
+$0101#player_vision
+sigma?
+$0303#nitori_ob
+anyway beta
+what are you doing here
+in the presence of a sigma
+$0101#player_vision
+(This Nitori seems to be a little crazy)
+(Maybe Remilia did something to her)
+$0303#nitori_ob
+What
+are you too stunned by my sigma grindset
+are you gazed my my superior figure 
+being an alpha and all that
+yk how it is
+$0101#player_vision
+im just confused 
+like why where you screaming earlier
+and what is that book in your little mech
+$0303#nitori_ob
+(OH NO)
+(THATS MY LIMITED EDITION HOW TO BE A SIGMA 101 BOOK)
+(I CANT LET HER KNOW ABOUT MY PLANS)
+(WHAT DO I DO)
+$0101#player_vision
+...hello
+$0303#nitori_ob
+(SHIIIIT)
+Sigma rule number 2.
+dont waste your words on simpletons
+$0101#player_vision
+sig..ma?
+whats that
+$0303#nitori_ob
+What the fuck
+are you seriously this old
+maybe i need to teach you a thing or two
+$0101#player_vision
+maybe i do
+$0303#nitori_ob
+you know what
+i see potential in you
+take this watch
+its how you start you journey
+into becoming a sigma
+$0101#player_vision
+I mean sure why not
+$0303#nitori_ob
+Also..
+Take this book too
+I dont need it anymore
+Im already a graduated sigma
+$0101#player_vision
+No thanks 
+that would be a little too heavy for me
+(why is it also sticky)
+$0303#nitori_ob
+AND REMEMBER
+WE ARE SIGMAS
+NOT ALPHAS
+DESTROY THOSE ALPHAS AT ALL Cost
+$0101#player_vision
+um.. ok
+(i also have to ask Remilia whats an alpha and a sigma)
+#end
+
+
+#s06
+$0404#NSenemy_0_08
+Stop there!
+only alphas can come past me
+you seem to be lacking the alpha energy
+$0101#player_vision
+...not you to. Meiling
+what is with this sigma and alpha stuff
+$0404#NSenemy_0_08
+WHAT THE FUCK DID YOU JUST SAY
+$0101#player_vision
+sigma and alphas?
+$0404#NSenemy_0_08
+THEY GOT TO OUR SAKUYA
+THESE SIGMAS ARE ANIMALS
+EVIL I SAY
+$0101#player_vision
+what is going on
+$0404#NSenemy_0_08
+im gonna have to disappoint Lady Remilia 
+but sigmas must be stopped
+by death
+$0101#player_vision
+i dont like the sound of that
+$0404#NSenemy_0_08
+them maybe you should have considered being an alpha instead
+but talk is cheap
+Its time to END YOU!
+#end
+
+
+#t07
+$0404#NSenemy_0_08
+Ugh! NO!
+I CANT LOSE TO A SIGMA!
+I GUESS I HAVE TO GO ALL OUT
+$0101#player_vision
+huh..
+$0404#NSenemy_0_08
+NANOMACHINES SAKUYA!
+#end
+
+
+#t08
+$0404#NSdestroy_0_08
+GOD DAMN YOU SIGMASSS
+$0101#player_vision
+im not even a sigma i think
+#end
+
+
+#s09
+$0404#NSdestroy_0_08
+wait what did you say
+$0101#player_vision
+im not a sigma 
+Nitori did try to make me one tho
+$0404#NSdestroy_0_08
+that kappa
+small fucking kappa
+$0101#player_vision
+anyway can i pass
+$0404#NSdestroy_0_08
+I guess you can pass
+after all your not really my enemy anymore
+maybe you have potential to be an alpha
+$0101#player_vision
+oh ok
+...I'll remember that.
+
+#end
+
+
+#s10
+$0101#player_vision
+Theres alot i need to ask Lady Remilia
+hopefully shes close enough before i forget
+#end
+
+
+#t11
+$0101#player_vision
+woahh
+im like controlling time now
+cool
+#end
+
+
+#t12
+$0101#player_vision
+a bathtub here
+wait i think Meiling was trying to sell this water for some reason
+hopefully i dont ruin it
+#end
+
+
+#s13
+$0303#nitori_ob
+Welcome Sigma gamer
+i have wares
+$0101#player_vision
+ok
+$0303#nitori_ob
+gimme gems
+pls
+$0101#player_vision
+maybe
+$0303#nitori_ob
+ok bye
+#end
+
+
+#t14
+$0101#player_vision
+Ugh...! My Mario Party!
+how am i supposed to use my knives now?
+#end
+
+
+#t15
+$0101#player_vision
+wow!
+Ice cream so good!
+....
+Lady Remilia said that after eating anything for like a week
+yet they move on so quickly
+#end
+
+
+#s16
+$1303+2#pos,10800,01632
+Hellooo~ bbg
+$0101#player_vision
+Nitori...What what is a bbg
+$1303+2#pos,10800,01632
+it means babygirl
+$0101#player_vision
+but im not a baby
+$1303+2#pos,10800,01632
+well pretend that you are
+pleaseeee
+$0101#player_vision
+no thanks im good
+$1303+2#pos,10800,01632
+ugh fiiine
+btw im detecting an alpha near you
+you must deal with him
+or her
+acutally probably her 
+$0101#player_vision
+why do i have to kill her
+$1303+2#pos,10800,01632
+your a sigma now
+thats what you do
+$0101#player_vision
+sorry to disappoint
+but im not a sigma
+im Sakuya
+$1303+2#pos,10800,01632
+thats too damn bad
+just fucking kill her
+or whatever...
+and stop littering
+$0101#player_vision
+i probably wont kill
+but i should probably clean up
+#end
+
+
+#s17
+$0505+1#mark00
+Not bad.
+$0101#player_vision
+That voice...Lady Remilia...?
+$0505+1#mark00
+Hehehe, you're quite good...Sakuya.
+$0101#player_vision
+Even if my power is limited,* this much won't take me down.
+$0505+1#mark00
+Hehe, so far everything is as I expected.
+But can you say the same thing once the real game starts?
+$0101#player_vision
+The real game...?
+$0505+1#mark00
+Yes...the real game.
+Let me just tell you, but this was a demonstration.
+You can find out more in the official version.
+$0101#player_vision
+The official version...
+Well...if it's a game Lady Remilia prepared,* I didn't think this could be the whole thing.
+$0505+1#mark00
+It will take some time until the release,* but look forward to it.
+Anyways, congratulations on clearing the demo version today.
+I'll be waiting at the official version.* See you soon...
+#end
+
+
+
+
+
+
+
+////////////////////////////9999999//////////////////////////////
+
+
+英語
+
+bgm01
+SWR Yukari's Theme: Night Falls ~ Evening Star... again
+bgm02
+Lets do a little bit of trolling
+boss01
+Bucket Truck | Truck Tunes for Kids | Twenty Trucks Channel
+boss02
+My tetrio gameplay
+bgm03
+the trolling continues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@90
+You got YELLOW KEY
+You can now open doors some mid aura
+
+@91
+You got GREEN KEY
+You can now open doors good credit score
+
+@92
+You got BLUE KEY
+now thats aura
+
+@70
+You got an ETERNAL COCK
+why do i have to change this text 3 times
+
+@80
+You got DOUBLE JUMP KNIFE
+now the game can start
+
+@81
+You got GRIP KNIFE
+now the game really starts
+
+@88
+You got a HOW TO BE SIGMA 101 book
+become a sigma
+
+
+
+
+
+
+////////////////////////////9999999//////////////////////////////
+
+
+
+
+
+
+
+
+
+#ta7
+$0505+3#pos,03376,02384
+Red Mist
+lose aura when you come into contact with it
+#end
+
+#ta8
+$0505+3#pos,05648,00880
+purple aura dont care about time *and do what they want
+#end
+
+#ta9
+$0505+3#pos,01776,02160
+green aura actually likes when time is stopped.
+#end
+
+#sb0
+$0505+3#pos,00944,01648
+do not watch out there are perfectly normal carrots ahead
+#end
+
+
+
+
+
+////////////////////////////9999999//////////////////////////////
+
+
+
+
+
+
+#s18
+$0505+1#pos,03000,00992
+NO WAY THEY DROPPED A NEW EPISODE
+$0101#player_vision
+...!
+That voice...
+#end
+
+#s19
+$0606#NSenemy_0_12
+oh hey Suckya
+$0101#player_vision
+my names Sakuya
+$0606#NSenemy_0_12
+whatever
+your name doesnt matter to me
+after all you never even made a guest apperence in Remilia's podcast
+$0101#player_vision
+Podcast?
+Remilia has mentioned that before
+never knew what it meant
+$0606#NSenemy_0_12
+are you serious
+did you go to school with dinosuars
+$0101#player_vision
+huh?
+dinosuars are extinct
+$0606#NSenemy_0_12
+oh so before then
+$0101#player_vision
+what are you saying
+$0606#NSenemy_0_12
+whatever
+i couldnt care less for someone who hasnt even seen Remilia's podcast
+to me your just a simple beta
+underneath me in every possible way
+$0101#player_vision
+how about we fight them
+im im so weak compared to you
+$0606#NSenemy_0_12
+Hmm
+seems like id be too easy
+whatever
+this will be quick
+#end
+
+#t20
+$0606#NSenemy_0_12
+HOW IS THIS HAPPENING
+whatever you wont survive this!
+LOVE SIGN HAWK TUAH
+#end
+
+#t21
+$0606#NSdestroy_0_12
+y-you 
+YOU TRICKED ME
+all this time i thought you where a beta
+you were actually an *Alpha
+$0101#player_vision
+no im Sakuya
+$0606#NSdestroy_0_12
+damnit Sakuya
+get on the podcast already
+i need to learn from you
+$0101#player_vision
+thats what Remilia is planning
+#end
+
+#s22
+$0606#NSdestroy_0_12
+good
+the alphas in this world *need to learn *your techniques
+to defeat all the sigmas out there
+$0101#player_vision
+Sigmas?
+like Nitori
+$0606#NSdestroy_0_12
+Nitori?
+what is she doing here?
+$0101#player_vision
+She says she was a Sigma
+She had a book
+it was like
+"HOW TO BE A SIGMA 101"
+something like that
+$0606#NSdestroy_0_12
+and i thought the world would be cured of those
+abominations
+who would let a sigma in this world
+$0101#player_vision
+idk i think Remilia is the only one that could bring people here
+$0606#NSdestroy_0_12
+Alright well *Ill leave
+im gonna hunt that Nitori down
+and probably steal some more books
+oki bibi
+#end
+
+#s23
+$0101#player_vision
+Sigh... i hope this alpha thing wont actually bring consequences
+and i should probably help Patchouli incase Marisa tries to steal more books
+#end
+
+#s24
+$0707#pachu_ivent
+Sakuya... 
+ive been waiting for you
+$0101#player_vision
+...hey
+why where you waiting for me
+$0707#pachu_ivent
+I have been listening to Remi's podcast
+for 21329083082038 hours *straight
+$0101#player_vision
+Patchouli.. *why?
+$0707#pachu_ivent
+its so accend to a whole diffrent form of Alphaness
+a teir so high that regular people would quiver at the mear existence of one
+Double Alpha
+$0101#player_vision
+now theres teirs i need to keep track of now
+$0707#pachu_ivent
+at least i tried to
+$0101#player_vision
+oh
+wait so did you listen to her podcast for that long
+$0707#pachu_ivent
+nah i got bored after a few minutes
+so i started reading
+then i got bored again
+and now your here!
+$0101#player_vision
+is that what you call waiting for me
+$0707#pachu_ivent
+yea
+so can we have fun now
+$0101#player_vision
+i guess but i have to get to Remilia
+theres been some problems going on
+$0707#pachu_ivent
+ok well 
+tbh i dont really care about those problems
+i just came cus i was bored
+$0101#player_vision
+you just read books in this world what do you mean
+dont you read book in Gensokyo anyway
+$0707#pachu_ivent
+yea but i thought a change in scenery might be nice 
+anyway lets fight
+#end
+
+#t25
+$0101#player_vision
+what even is this song
+$0707#NSenemy_0_28
+its me playing tetris
+im pretty good
+$0101#player_vision
+good?
+$0707#NSenemy_0_28
+im A rank ok gimme a break
+and not "a rank" i mean like "A" rank..
+actually nvm just keep fighting
+$0101#player_vision
+(Ranked tetris? I thought it was just a block game)
+#end
+
+#t26
+$0707#NSdestroy_0_28
+damnit i got greedy for the t-spin
+#end
+
+#s27
+$0101#player_vision
+well that was fun but i got to get going
+$0707#NSdestroy_0_28
+awww ok it was fun though
+imma go play tetris then
+$0101#player_vision
+isnt that the block game
+how do you even get ranked
+$0707#NSdestroy_0_28
+theres battle tetris too
+you should play it
+it will be fun
+$0101#player_vision
+unfortunetly i get pretty busy 
+so ill have to pass
+$0707#NSdestroy_0_28
+aww alright
+well have fun dealing with the rest of them
+$0101#player_vision
+is Lady Remilia close at least
+$0707#NSdestroy_0_28
+Yea shes at the clock tower i think
+recording her new podcast
+$0101#player_vision
+alright then have a good time then
+$0707#NSdestroy_0_28
+oki doki
+#end
+
+#s28
+$0101#player_vision
+speaking of music...
+why is the same song playing for every world
+and why is it Yukari's theme
+maybe Lady Remilia has answers
+#end
+
+
+#s29
+$0303#nitori_ob
+Hello there. hows your Sigma adventure going
+$0101#player_vision
+Nitori, why do sigmas hate Alphas
+$0303#nitori_ob
+because
+anyway i have a gift for you
+$0101#player_vision
+wait what
+$0303#nitori_ob
+its a ticket to my shop
+you should come :>
+plsssss
+$0101#player_vision
+uhh ok then
+but you didnt answer my question
+$0303#nitori_ob
+so yea use the shop ticket 
+and sell all of your gems
+pls
+$0101#player_vision
+huh can you answer my question
+$0303#nitori_ob
+ok bibi bbg
+$0101#player_vision
+can that kappa listen to me
+#end
+
+#s30
+$0303#nitori_ob
+Us sigmas have reunited again
+hows your adventure going
+have you caught any alphas
+$0101#player_vision
+Nitori again...
+im not a sigma
+i dont even know what it is
+$0303#nitori_ob
+thats because you havent read the book
+$0101#player_vision
+but
+i dont wanna
+it sticky
+$0303#nitori_ob
+thats because ive been edgemaxxing to it every 24 minutes
+$0101#player_vision
+...
+ed..ge..max..ing...
+what does that mean
+$0303#nitori_ob
+as the book says
+first you have to #@$^@$#^@$#^&$@$
+and then @^%#%&@#%$&%
+while you also #$^%&%$#%&%@#
+$0101#player_vision
+wha what the fuck
+Nitori are you even allowed to say that
+$0303#nitori_ob
+its censored its ok
+$0101#player_vision
+its still disgusting 
+arent you too young to be doing those things
+$0303#nitori_ob
+no silly im like
+15
+idk
+gooning doesnt care about numbers
+$0101#player_vision
+i dont even wanna know what gooning means now
+ill just leave
+$0303#nitori_ob
+noooo
+pls
+come to my shop pls
+i need jewels for my looksmaxxing routine
+$0101#player_vision
+i promise you
+i will not be helping you 
+goodbye
+#end
+
+
+
+#s31
+$1202+2#pos,06880,00928
+Hello?
+$0101#player_vision
+Akyuu?
+$1202+2#pos,06880,00928
+Akyu.
+$0101#player_vision
+whatever what do you need
+$1202+2#pos,06880,00928
+oh
+i was just asking 
+for the Telephone Box X Sakuya fanfic
+whould you be a top or a bottom
+$0101#player_vision
+huh
+arent i the same hight then the telephone
+$1202+2#pos,06880,00928
+...
+no
+i mean like
+who would take control
+yk
+$0101#player_vision
+???
+me?
+the telephone is an inanimate object
+$1402+2#pos,06880,00928
+....
+OK 
+have fun will your boyfriend
+$0101#player_vision
+boyfriend??
+i dont have a boyfriend
+$1402+2#pos,06880,00928
+Suuuure
+ok byebye
+$0101#player_vision
+see you later
+#end
+
+
+#s32
+$0505+1#mark00
+Well done, Sakuya.
+$0101#player_vision
+That's Lady Remilia's voice...
+$0505+1#mark00
+I'm impressed* that you beat Patchouli with your limited power.
+$0101#player_vision
+I'll go to where Lady Remilia waits, *and have her send me back to reality.
+$0505+1#mark00
+Sorry, but it's still too early for that.
+$0101#player_vision
+No way...!
+$0505+1#mark00
+Yes, this is still just a demonstration.
+$0101#player_vision
+Again?!
+$0505+1#mark00
+For now, you'll have to wait for the official version.
+$0101#player_vision
+"Official version"...? *Didn't you say that last time...?
+$0505+1#mark00
+It's complicated...
+Anyway, *congratulations on clearing Stage 3.
+See you again...
+#end
+
+
+
+
+
+
+////////////////////////////2222222//////////////////////////////
+
+
+
+
+
+
+
+bgm04
+3 BIG BALLS
+boss03
+Alpha Male TikTok Cringe Compilation #3
+boss04
+Chug Jug With You - Parody of American Boy (Number One Victory Royale)
+boss05
+KENTENSHI - paranoia
+boss06
+Aesop Rock - Toxic Coffee (Britney Spears Mashup)
+
+
+
+
+
+
+@04
+You got SHIELD DAGGER
+are you ready to get grazes you dont deserve
+
+@05
+LOST HOLY SWORD
+ok wtf is this
+
+@82
+You got SCREW KNIFE
+wait why cant you destroy boxes normally
+
+@93
+You got PUPLE KEY
+amazing aura
+
+
+
+
+#tb0
+$0505+3#pos,05648,01104
+yellow aura like to defy the methods of society
+#end
+
+
+
+
+
+
+#s33
+$0505#NSenemy_0_47
+So you finally arived
+To make an offical apperance to my podcast
+$0101#player_vision
+so this is what everyone has been so excited about
+$0505#NSenemy_0_47
+are you impressed
+i have fans around Gensokyo
+and soon
+everyone will be an alpha
+and we could have reigned suprime
+$0101#player_vision
+thats nice
+$0505#NSenemy_0_47
+However
+streets are saying your a sigma
+$0101#player_vision
+Nitori has been trying to rope me into her shenanigans
+however im still confused about this whole "sigma" buissness
+$0505#NSenemy_0_47
+I see your just a pawn
+your just one skibidi in a rizzler world
+trying to find an ohio baddie to call your own
+$0101#player_vision
+can you speak in english please
+or at least tell me what those words mean
+$0505#NSenemy_0_47
+Sakuya 
+this whole world is filled with brainrot
+and you are the last one left
+obivious to it all
+$0101#player_vision
+i do notice it Mistress
+I just havent been using it
+$0505#NSenemy_0_47
+Sakuya
+thats the fucking point
+Ohio was created to use Brainrot
+pardon my English
+You have been refrencing boomer ass memes Sakuya
+$0101#player_vision
+huh-
+$0505#NSenemy_0_47
+"Ice cream so good"
+THAT WAS IN AUGUST OF 2023
+$0101#player_vision
+oh wow thats awhile ago
+$0505#NSenemy_0_47
+refrencing old ass memes isnt the only crime you have committed
+Ive seen your facebook
+and its discusting
+$0101#player_vision
+oh yea that thing
+Marisa told me to get one
+she seemed really giggly about it to for some reason
+$0505#NSenemy_0_47
+THATS BECAUSE SHE WAS FUCKING WITH YOU
+SHE WANTED TO SEE YOU REACT TO AI ART WITH
+"God never makes mistakes" WITH THE PRAYING EMOJI AT THE END
+$0101#player_vision
+Ai art?
+$0505#NSenemy_0_47
+You BOOMERS ARE SO FUCKING STUPID 
+YOU AND REIMU
+YOU GUYS ARE YEARS BEHIND
+which is why i made this world to catch you up to speed
+(and make the podcast)
+(mostly the podcast)
+$0101#player_vision
+okay?
+so can i go now
+$0505#NSenemy_0_47
+no we are fighting
+and we are listening to a podcast while we do so
+$0101#player_vision
+podcast?
+$0505#NSenemy_0_47
+its like the news but for people who dont have dimentia
+actually lets do the clip compilation
+alright lets go
+#end
+
+#t34
+$0505#NSenemy_0_46
+Hehe...
+hold up
+Chat clip this
+$0101#player_vision
+chat?
+#end
+
+#t35
+$0505#NSenemy_0_46
+Ugh...!
+Mods do something
+ban her or something
+$0101#player_vision
+are you gonna ban me from this world
+$0505#NSenemy_0_46
+Yes
+....
+wait what
+shit what happened
+ykw nevermind i will win
+$0909+4#mark01
+um ok
+#end
+
+#r36
+$0505#NSenemy_0_46
+How is this possible
+a boomer like her can withstand brainrot this strong
+#end
+
+#t36
+$0505#NSdestroy_0_46
+NOOOOO NOT ON MY PODCAST!!!
+#end
+
+#s37
+$0505#NSdestroy_0_46
+damnit 
+well at least i could cut that out later
+$0101#player_vision
+is the podcast over
+$0505#NSdestroy_0_46
+silly
+the podcast will never be gone
+maybe this time ill include Flan in it
+$0101#player_vision
+that would be interesting
+$0505#NSdestroy_0_46
+hmmm but there is something strange i noticed
+$0101#player_vision
+what is it
+$0505#NSdestroy_0_46
+I should have been able to ban you from this world
+since only i can invite people to the podcast
+so sigmas dont invade it
+but then how is Nitori here
+$0101#player_vision
+Nitori has been acting strange lately
+she had this book
+something about sigmas
+$0505#NSdestroy_0_46
+wait
+did it kinda look like a ticket
+$0101#player_vision
+yea...
+$0505#NSdestroy_0_46
+was it also suprisingly sticky
+$0101#player_vision
+yea...
+$0505#NSdestroy_0_46
+no way...
+its Flan
+SHES BEEN CONTROLLING THE PODCAST
+SHES A SPY
+A SIGMA SPY
+$0101#player_vision
+now that edgemaxxing stuff seem a whole lot worse doesnt it
+$0505#NSdestroy_0_46
+SAKUYA
+I COMMAND YOU TO KILL FLANDRE
+NOW
+$0101#player_vision
+isnt killing her a bit much
+$0505#NSdestroy_0_46
+NOW!!!
+$0101#player_vision
+Okay Lady Remilia
+#end
+
+
+
+#s38
+$0505#NSdestroy_0_46
+...
+$0101#player_vision
+...
+$0505#NSdestroy_0_46
+...Hm?
+$0808+1#mark00
+boo
+$0505#NSdestroy_0_46
+FLAN I KNOW YOUR There
+$0808+1#mark00
+nooo this is Nitori
+$0505#NSdestroy_0_46
+SHUT THE FUCK UP BITCH
+GET YOUR OWN DAMN PODCAST
+$0808+1#mark00
+what do you mean 
+this is my own podcast
+teeheehee
+$0101#player_vision
+ill just get going
+see you later Lady Remilia
+$0505#NSdestroy_0_46
+bye Sakuya im gonna mog in frustration
+
+#end
+
+#s39
+$0101#player_vision
+I never know podcasts where such a big deal
+oh wait
+i forgot to ask about the music
+$0808+1#mark00
+oh that
+$0101#player_vision
+huh..
+$0808+1#mark00
+i think its because the mod developer was too lazy *to find more songs for the background music 
+so they copy pasted the same song mutiple times and act like thats the bit
+$0101#player_vision
+oh..
+$0808+1#mark00
+dw this next area is diffrent
+$0101#player_vision
+cool
+#end
+
+#s40
+$0303+1#pos,01280,00608
+You made it!
+$0101#player_vision
+Flan?
+#end
+
+#s41
+$0303#pos,01280,00608
+Hey, hey!
+You did well, Suckera.
+$0101#player_vision
+Its Sakuya
+also Nitori?
+why are you here
+$0303#pos,01280,00608
+what
+you dont like my kappa cosplay
+$0101#player_vision
+oh so you are Flan
+$0303#pos,01280,00608
+...
+maybe maybe not
+$0101#player_vision
+cant you just reveal yourself
+$0303#pos,01280,00608
+after we fight first
+$0101#player_vision
+ok fine
+#end
+
+#s42
+$0303#nitori_ob
+Hey, hey. how it going sigma gamer
+$0101#player_vision
+hey
+didnt you just say you own the podcast
+$0303#nitori_ob
+wdym
+id never take over someone elses podcast
+$0101#player_vision
+that sounds like something someone who too over a podcast would say
+$0303#nitori_ob
+nuh uh
+$0101#player_vision
+what?
+$0303#nitori_ob
+womp womp
+gimme gems
+$0101#player_vision
+no
+just thinking about what you will do to them will make me shudder
+$0303#nitori_ob
+well then be a bitch i dont care
+#end
+
+#t43
+$0303#NSenemy_0_60
+yawn~
+cant you just finish this already
+i wanna get to the fun part
+#end
+
+#t44
+$0303#NSdestroy_0_60
+finally took you a bit
+#end
+
+#s45
+$0303#nitori_stage04_ivent
+nanomachines son
+i dont really know what they do but 
+they seem cool
+$0101#player_vision
+ok will you finally reveal yourself
+$0303#nitori_stage04_ivent
+fine then ill stop playing around
+#end
+
+#s46
+$0101#player_vision
+who could have seen that comming
+$0808#nitori_stage04_ivent
+Aha ha ha ha!
+i have a joke for you
+i have ligma
+$0101#player_vision
+ligma balls!
+gottem
+$0808#nitori_stage04_ivent
+what
+how can a chronic boomer like you
+know what ligma is
+$0101#player_vision
+Remilia told me
+$0808#nitori_stage04_ivent
+lame
+whatever ill just end you now
+$0101#player_vision
+arent we supposed to ramble about the podcast tho
+$0808#nitori_stage04_ivent
+oh yea that
+shes been obsessed over it for awhile now
+$0101#player_vision
+how long is awhile
+$0808#nitori_stage04_ivent
+like..
+9 hours
+$0101#player_vision
+oh
+$0808#nitori_stage04_ivent
+so i decided to take over her podcast
+so the alphas will be clueless
+and fall victim to the sigmas
+you could have been my second in command
+ruler of the alphas
+but you sided with them
+$0101#player_vision
+well im not really a fan of what sigmas do
+like edgemaxxing
+$0808#nitori_stage04_ivent
+you dug your own grave Sakuna
+NOW LIE IN IT
+$0101#player_vision
+its Sakuya
+#end
+
+#s47
+$0808#NSenemy_0_70
+I have so many gems to edgemax to 
+thanks to you
+$0101#player_vision
+i want to end this fight quick then
+#end
+
+#s48
+$0808#NSenemy_0_70
+Im depraved of my gems to edgemax to
+I guess i have to resort to my emergency supply
+$0101#player_vision
+im gonna have to get rid of your emergency supply when we get back
+#end
+
+#t49
+$0808#NSenemy_0_70
+SEE SAKUYA 
+THIS IS THE POWER OF A TRUE SIGMA
+ONE NOT BOUND BY LIMITS THE ALPHAS HAVE SET
+#end
+
+#t50
+$0808#NSenemy_0_70
+ALRIGHT ITS TIME TO GET SERIOUS
+LETS BURN THIS PLACE TO THE GROUND
+$0101#player_vision
+does insurance cover this?
+$0808#NSenemy_0_70
+let the music set the scene
+#end
+
+#t51
+$0808#NSdestroy_0_70
+FUCK WHY ARE YOU SO OVERPOWERED
+$0101#player_vision
+because
+im Sakuya
+$0808#NSdestroy_0_70
+FUCK YOU SAKURA
+#end
+
+#s52
+$0808#NSdestroy_0_70
+damnit
+all i wanted was to be a guest on her podcast
+$0101#player_vision
+Flandre...
+#end
+
+#s53
+$0505#remi_stage04_ivent
+GIVE ME BACK THE PODCAST
+$0101#player_vision
+Mistress...
+i think you should hear Flan out for a second
+I think shes cooking
+...as the kids say
+$0505#remi_stage04_ivent
+wait how do you know cooking
+$0101#player_vision
+the fairies told me
+$0808#NSdestroy_0_70
+I just wanted to be in the podcast
+you guys just started the podcast
+and i wanted to be in it
+you guys made 50 fucking episodes
+and didnt even ask me once about the podcast
+when was the last time you even talked to me
+$0505#remi_stage04_ivent
+o shit i forgor
+my b cheif
+$0101#player_vision
+Mistress Remilia
+what the fuck is that apology
+$0505#remi_stage04_ivent
+ok listen listen
+how about we start a new podcast
+and we both co star
+$0808#NSdestroy_0_70
+Really...!?
+$0505#remi_stage04_ivent
+yea it will be like
+The Scarlet Sisters Podcast
+and we would talk about
+Gendered Bathrooms and Yuri
+$0808#NSdestroy_0_70
+Yeah!
+I love Yuri!
+$0101#player_vision
+whats yuri
+$0505#remi_stage04_ivent
+how about you listen to our podcast then
+$0101#player_vision
+...
+alright then
+$0505#remi_stage04_ivent
+and also learn all the new words cus apprently you are a fossil
+$0101#player_vision
+...Yes, Mistress.
+#end
+
+#s54
+$0505+1#mark00
+Sakuya, can you hear me?
+$0101#mark01
+Mistress, is that you?*What's wrong?
+$0505+1#mark00
+Congratulations on finishing the game.*And now I have something very important to tell you.
+There's actually one more update*available for this game.
+$0101#mark01
+Do you mean the promise we*made after I cleared the game?
+$0505+1#mark00
+That's right...*An extra stage.
+$0101#mark01
+That's what I feared...
+But, Mistress.*Who will I face?
+$0505+1#mark00
+Well...*That's part of the fun.
+Next time will be the last.*I hope you're as excited as I am!
+#end
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////////////////////////55555555//////////////////////////////
+
++purchase04
+Boss Rush
+Cancel
+Begin Boss Rush Mode
+
+
+
+&&namelist
+???
+Sakuya
+Akyu
+Nitori
+Meiling
+Remilia
+Marisa
+Patchouli
+Flan
+Remilia & Sakuya
+Reimu
+Cirno
+
+
+bgm05
+hehehe
+boss07
+Yuno Miles - Bank Account
+
+
+@83
+You got DASH SPIKE
+Double tap in any direction to dash.
+
+@94
+You got ICE MAGATAMA
+You can nullify the effects of fire barriers.
+
+@06
+Bound Knife
+Fire a knife that can rebound off walls.
+
+
+
+
+#s56
+$0101#player_vision
+Why is there a shrine gateway here?
+And it's a white one, too.
+(like that book)
+I wonder where it leads to...
+#end
+
+#s57
+$0303#nitori_stage05_ivent
+Hey, hey, human, how's it going?
+$0101#player_vision
+Oh, hi Flan how do you like my rizz
+$0303#nitori_stage05_ivent
+what?
+do you even know what rizz means
+$0101#player_vision
+its like 
+game right
+like ppl will simp over me and stuff
+$0303#nitori_stage05_ivent
+i mean i guess
+anyway
+can you stop this girl 
+shes scaring me
+$0101#player_vision
+who is she
+$0303#nitori_stage05_ivent
+oh its Reimu
+she got pissed of that she got called a boomer
+$0101#player_vision
+oh
+why would i help you
+$0303#nitori_stage05_ivent
+because
+idk
+you guys act the same way on facebook
+maybe the boomerness can like 
+collide and stuff
+$0101#player_vision
+ill go talk to her
+$0303#nitori_stage05_ivent
+talk tuah her 
+teehee
+$0101#player_vision
+...
+ok..
+$0303#nitori_stage05_ivent
+oki bibi
+#end
+
+
+#s58
+$0101#player_vision
+talk tuah?
+hopefully that doesnt come up too often
+#end
+
+#s59
+$0101#player_vision
+woahh
+new place
+i wonder if i could learn some new words here
+like what talk tuah is
+#end
+
+#s60
+$0303#nitori_stage05_ivent
+Hey, hey, human.
+$0101#player_vision
+Flan?
+$0303#nitori_stage05_ivent
+why do you keep calling me Flan
+did you take the za
+$0101#player_vision
+za?
+$0303#nitori_stage05_ivent
+the Mary Jane
+$0101#player_vision
+marry who?
+$0303#nitori_stage05_ivent
+you ganja gremlin
+$0101#player_vision
+manga?
+$0303#nitori_stage05_ivent
+Dopey nonchalant dreadhead
+$0101#player_vision
+what are you even saying
+$0303#nitori_stage05_ivent
+whatever you reefer
+maybe i shouldnt trust you with taking care of her
+$0101#player_vision
+taking care of her?
+i was just gonna talk
+$0303#nitori_stage05_ivent
+yea but like shes scary
+probably doesnt matter to you cus your a reefer
+$0101#player_vision
+you need to be more clear with your slang here
+$0303#nitori_stage05_ivent
+im sorry but its my job to be brainrotted
+Remilia	told me to anyway
+$0101#player_vision
+...
+honestly i forgot that was the point of this
+$0303#nitori_stage05_ivent
+oh it wasnt
+it was just to make the podcast
+and then it ended up being like this
+$0101#player_vision
+...
+alright then
+$0303#nitori_stage05_ivent
+anyway ill stop yapping for now
+just get to Reimu and dont die
+#end
+
+#s61
+$0101#player_vision
+I knew it had to be you
+$1010#NSenemy_0_0a
+huh how
+$0101#player_vision
+a baddie told me that there was a red girl chasing her
+and also the shrine stuff
+$1010#NSenemy_0_0a
+have you been trying to catch up with this new slang
+$0101#player_vision
+yea
+its been hard for me
+they constantly update them all the time
+$1010#NSenemy_0_0a
+yea i have to rely on Marisa to tell me this stuff
+and sometimes she just comes in one day
+talking about this hawk tuah podcast
+$0101#player_vision
+oh Cirno has been listening to that too
+kinda weird for like an 8 year old to be listening to that
+$1010#NSenemy_0_0a
+wait hold on
+how about when we fight we could play some music those kids listen to
+so we get like assumulated or something
+$0101#player_vision
+sounds good to me
+#end
+
+
+
+#t62
+$0101#player_vision
+damn this song is ass
+$1010#NSenemy_0_0a
+bro is off beat too
+#end
+
+#t63
+$1010#NSdestroy_0_0a
+what time signature even is that
+fucking/dogshit?
+#end
+
+#s64
+$1010#NSenemy_0_1a
+pls kill me
+my ears need to be purged
+$0101#player_vision
+i dont really wanna
+seems like id have to to more problem solving later
+$1010#NSenemy_0_1a
+I absolutly beg of you
+end my life
+$0101#player_vision
+oh come on you will live
+$1010#NSenemy_0_1a
+fine I guess i have to make you kill me
+$0101#player_vision
+what the skibidi
+#end
+
+#t65
+$1010#NSdestroy_0_1a
+Not the brainrotttttt.....
+#end
+
+#s66
+$1010#NSdestroy_0_1a
+W-well, well... Not bad...
+But your powers...should be sealed in this world...
+How are you even able to fight me...?
+$0101#player_vision
+What doesn't kill you makes you stronger.
+And this space Lady Remilia created has made me stronger.*Even stronger than you, Reimu.
+#end
+
+#s67
+$0101#player_vision
+woah the whole party is here
+why is there two Flans tho
+$0308#fran_stage05_ivent
+Sakuya you fucking dumbass
+#end
+
+#s68
+$0808#fran_stage05_ivent
+it me you fucking bitch
+$0101#player_vision
+oh strange
+$0505#remi_stage05_ivent
+Sakuya are you sure you havent had any za
+$0101#player_vision
+what even is za
+$0808#fran_stage05_ivent
+weed you idiot
+$0303#nitori_stage05_ivent
+the green stuff
+$1010#NSdestroy_0_1a
+take it easy on her 
+shes learning to be like you youngins
+$0101#player_vision
+yea 
+i wanna know what you guys are saying at least
+$0303#nitori_stage05_ivent
+i could see the aura rapidly decrease
+you fell off Sakuya
+$0808#fran_stage05_ivent
+definitely
+no Alpha could mistake you for anything less of a sigma
+$0505#remi_stage05_ivent
+you got some work to do Sakuya
+playing requires you to put in the effort
+$1010#NSdestroy_0_1a
+also
+you guys cant play here anymore
+its fucking with the real world
+wrap it up
+$0808#fran_stage05_ivent
+awww
+but i liked playing here
+$0505#remi_stage05_ivent
+we probably should wrap up the podcast
+weve already created 150 episodes
+$0101#player_vision
+you guys are fast
+$0505#remi_stage05_ivent
+Flan. We need to start working on season 2
+where we branch off to Yoai too
+$0808#fran_stage05_ivent
+hmm good idea
+$1010#NSdestroy_0_1a
+why are you guys talking about yoai
+$0303#nitori_stage05_ivent
+hopefully the gooners will resist edging your podcast
+$0808#fran_stage05_ivent
+Sigma rule number 3.
+If theres a podcast
+there will be edgemaxxers
+#end
+
+#s69
+$0101#player_vision
+uh oh
+what happened
+$0303#nitori_stage05_ivent
+the gooners...
+$1010#NSdestroy_0_1a
+gooners?
+$0505#remi_stage05_ivent
+THE GOONERS ARE AFTER Us
+GET OUT OF HERE
+SCRAM
+#end
+
+
+#s70
+$0101#player_vision
+oh god its starting to get sticky
+#end
+
+#s71
+$0101#player_vision
+Guess I'll have to ride in this...
+#end
+
+
+
+#s72
+$0303#nitori_stage06_ivent
+Hey, hey, human.
+$0101#player_vision
+Oh, hello Nitori...
+Are you the real Nitori or Flan...?
+$0303#nitori_stage06_ivent
+real dumbass
+did you think Flan would be smart enough to build this
+$0101#player_vision
+Oh, that makes sense
+$0303#nitori_stage06_ivent
+anyway i call this
+the goon shed
+$0101#player_vision
+i dont like the sound of that
+$0303#nitori_stage06_ivent
+Its not that bad
+you just fight people
+no actual edging required
+but you could if you want
+$0101#player_vision
+Ill just do the fighting
+$0303#nitori_stage06_ivent
+ok well have fun
+...
+oh btw
+if your seeing this then you probably seen most if not all the dialouge
+and the changed music
+so like
+that it
+you can go home now
+do like important stuff or something
+idk just dont waste you life here
+ok cool
+thank for playing!
+#end
+
+
+
+
+
+
+
+#s73
+$0505+1#mark00
+ok get the the extra stage now
+#end
+
+#s74
+$0505+1#mark00
+Bussy rush. do it.
+#end
+
+
+
+
+////////////////////////////7777777//////////////////////////////
+
+
+
+
+#s75
+$0101#player_vision
+Cirno
+what brings you here
+$1111#NSenemy_0_3a
+I heard this is where they record the Scarlet Sisters Podcast
+$0101#player_vision
+yea??
+are you a fan?
+$1111#NSenemy_0_3a
+am i a fan
+OFCOURSE I AM
+ANYONE WHO ISNT A FAN MUST BE A STUPID FUCKING BETA
+$0101#player_vision
+so why are you here then
+they are recording in the mansion
+$1111#NSenemy_0_3a
+well truth is
+i got banned
+$0101#player_vision
+what
+$1111#NSenemy_0_3a
+i saw them
+they where interviewing the hawk tuah girl
+i wanted to see it live
+but they knew i was gooning to hard
+i was edging to them like drake does to children
+$0101#player_vision
+arent you a child yourself?
+$1111#NSenemy_0_3a
+sigma rule number 4.
+age is just a number
+$0101#player_vision
+Guess I have no choice...
+im gonna have to end your edging streak
+(did i use that word correctly)
+#end
+
+#t76
+$1111#NSenemy_0_3a
+no way
+did Lady Remilia give you my edging techniques
+$0101#player_vision
+i think you should stop masturbating
+you are 8
+#end
+
+#t77
+$1111#NSdestroy_0_3a
+NOOO MY EDGING STREAK
+Damnit!
+#end
+
+#s78
+$1111#NSdestroy_0_3a
+I was a fool to underestimate your bust potential
+I guess Ohio has made you stronger
+$0101#player_vision
+I mean not really
+$1111#NSdestroy_0_3a
+cap
+$0101#player_vision
+huh?
+$1111#NSdestroy_0_3a
+more cap then baseball game
+$0101#player_vision
+baseball?
+have you played it
+$1111#NSdestroy_0_3a
+yea that shit boring tho
+too much waiting
+i need subway surfers on the side to even slog though it
+$0101#player_vision
+subway surfers?
+i think i remember that game
+i think i posted my high score on facebook there once
+$1111#NSdestroy_0_3a
+PFFT
+holy shit that was so fucking funny when you did
+11/10 shitpost
+$0101#player_vision
+shitpost?
+$1111#NSdestroy_0_3a
+anyway i should probably go
+you have stuff to do anyway
+$0101#player_vision
+oh yea i should go huh
+
+
+
+#s79
+$0505#NSenemy_0_47
+Hehehe. We meet again.
+$0101#player_vision
+Mistress...?!
+Why are you here...?
+$0505#NSenemy_0_47
+You forgot you save didnt you dumbass
+now we gotta fight all over again
+$0101#player_vision
+Oh, I didn't, did I? I was in such a hurry...
+$0505#NSenemy_0_47
+You know this world doesn't have auto-save.
+only good games have that
+except this game
+as it is perfect
+with no flaws whatsoever
+#end
+
+
+
+
++switchwake
+Please use the following play mode.
+Push a button to start the game.
+
+boss08
+I SAID HAWK TUAH AND NOW I'M HERE w/ Whitney Cummings - Talk Tuah Ep. 1

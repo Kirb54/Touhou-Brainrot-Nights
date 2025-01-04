@@ -1,0 +1,1868 @@
+﻿フランス語
+
+
+@00
+Obtenu : Mille dagues
+Projette 1 000 dagues vers l'avant.*Coût : 40 PM
+@01
+Obtenu : Dague étourdissante
+Projette une dague électrique qui étourdit la cible.*Coût : 10 PM
+@02
+Obtenu : Dagues guidées
+Projette des dagues qui se dirigent automatiquement vers l'ennemi.*Coût : 30 PM
+@03
+Obtenu : Tronçonneuse
+Projette une tronçonneuse en l'air.*Coût : 15 PM
+
+@19
+Obtenu : PV sup.
+Vos PV max. ont augmenté de 10 points.
+
+@39
+Obtenu : PM sup.
+Vos PM max. ont augmenté de 10 points.
+
+@59
+Obtenu : Dagues
+Le nombre de dagues que vous pouvez lancer*quand le temps se fige a augmenté.
+
+@69
+Obtenu : Montre éternelle
+Vous pouvez désormais*figer le temps à volonté.
+@70
+Obtenu : Montre éternelle
+Vous pouvez désormais*figer le temps plus longtemps.
+
+
+
+
+@79
+Obtenu : Lame de cheville
+Vous pouvez désormais faire des glissades*en appuyant sur [↓] + [Saut].
+
+@89
+Obtenu : Clé rouge
+Vous pouvez désormais ouvrir les portes qui luisent en rouge.
+
++purchase00
+Vendre/Acheter
+Vendre des gemmes
+Acheter des objets
+Quitter la boutique
+
++purchase01
+Vendre des gemmes
+Améthyste*Frôlement +
+Aigue-marine*Vitesse régén. PM +
+Topaze*Vitesse régén. TEMPS +
+Rubis*Défense +
+Saphir*Attaque +
+Émeraude*Régén. PV avec le TEMPS
+Diamant*Défense ++ Attaque ++
+Tout vendre
+Annuler
+
+
++purchase02
+Acheter des objets
+Réserve de PV*Rend 50 PV.
+Réserve de PM*Rend 50 PM.
+Réserve de TEMPS*Remplit complètement la jauge de TEMPS.
+Coupon Kappa*Permet d'appeler Nitori.
+Montre éternelle*Augmente la jauge de TEMPS.
+Dague*Augmente le nombre de dagues quand le temps se fige.
+EXP*Donne des points d'expérience.
+Annuler
+
++purchase03
+Confirmer
+Annuler
+Confirmer
+
+bgm00
+L'horloge lunaire : Luna Dial
+boss00
+Shanghai Alice, an 17 de l'ère Meiji
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#sa0
+$0505+3#pos,01040,01648
+Instructions 1
+Appuyez sur [Attaque] pour attaquer.*Appuyez sur [Saut] pour sauter.
+Appuyez sur [↓] + [Attaque] une fois en l'air*pour attaquer vers le sol devant vous.
+Maintenez [Saut] enfoncé une fois en l'air pour planer.
+Attaquer consomme des PM.*Vous ne pouvez pas attaquer si votre barre de PM est vide.
+#end
+
+#sa2
+$0505+3#pos,01392,01648
+Instructions 2
+Maintenez [Attaque] enfoncé et relâchez*pour activer le mode Ralenti.
+Cela vous permet de ralentir le temps pendant 3 secondes.
+#end
+
+#ta6
+$0505+3#pos,02896,01616
+Instructions 3
+[Frôlement bleu]*Le [Frôlement] vous permet de voler des PM, des PV et du TEMPS*en vous approchant dangereusement d'un adversaire ou d'un projectile.
+#end
+
+#ta3
+$0505+3#pos,05904,01648
+Instructions 4
+Attaquer pendant que le temps est figé*consomme du TEMPS au lieu des PM.
+Tout mouvement effectué durant cette période*consomme également du TEMPS.
+Le temps reprend son cours normal*lorsque votre jauge de TEMPS est vide.
+#end
+
+#sa1
+$0505+3#pos,05872,02032
+Instructions 5
+[Frôlement rouge]*Les frôlements sont plus faciles lorsque le temps se fige,*mais les quantités de PM et de TEMPS récupérés sont réduites.
+#end
+
+#ta4
+$0505+3#pos,10672,01680
+Instructions 6
+Appuyez sur [Compétence] pour vous servir*d'une compétence en votre possession.
+Si vous en possédez plusieurs,*maintenez [Compétence] enfoncé pour en changer.
+Utiliser une compétence coûte des PM*ou du TEMPS lorsque le temps est figé.
+#end
+
+#sa5
+$0505+3#pos,03120,02032
+Portail
+Utiliser un portail vous permet de vous téléporter*jusqu'au portail d'une autre zone.
+Vous ne pouvez cependant vous rendre*qu'aux portails que vous avez déjà découverts.
+Vous devez avoir découvert au moins*2 portails différents pour pouvoir vous en servir.
+#end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#s0a
+$0505+1#pos,00320,00152
+Hi hi hi ! L'heure est enfin venue.
+Mon monde va prendre forme...
+Sakuya...
+J'espère que tu es prête.
+#end
+
+
+
+#s00
+$0101#player_vision
+Pff... Pff...
+Où... Où suis-je ?
+$0505+1#pos,01120,01624
+... ya, ... Sakuya... ?
+Tu m'entends, Sakuya ?*Tu te trouves dans mon univers.
+$0101#player_vision
+Dame Remilia ?
+Mais de quoi parlez-vous ? Votre univers ?
+$0505+1#pos,01120,01624
+J'ai créé ce monde par magie.
+C'est une réplique parfaite de Gensokyo.
+Cela dit... Patche aurait pu se passer*d'en reproduire aussi les conditions climatiques...
+$0101#player_vision
+Cet endroit... Ce n'est pas Gensokyo ?
+$0505+1#pos,01120,01624
+Eh non !
+Tu vas devoir passer les épreuves que j'ai préparées*pour toi et te frayer un chemin jusqu'à moi.
+$0101#player_vision
+Je vois... Encore un jeu de votre conception.
+$0505+1#pos,01120,01624
+Hi hi hi ! Pas mal, hein ?
+Ah, j'oubliais !*J'ai limité tes pouvoirs, aussi.
+$0101#player_vision
+Comment ça ?*Vous voulez dire que je ne peux plus figer le temps ?
+$0505+1#pos,01120,01624
+C'est à peu près ça.*Ce ne serait pas drôle sinon !
+Le jeu sera bien plus intéressant*si tu n'as pas la pleine maîtrise de tes pouvoirs !
+$0101#player_vision
+Si vous le dites...
+$0505+1#pos,01120,01624
+Allez, Sakuya !*Et je veux que ce soit divertissant !
+$0101#player_vision
+Pff...*Je sens que ça ne va pas être une partie de plaisir.
+#end
+
+
+#s01
+$0101#player_vision
+Qu'est-ce que c'était que ça ?
+Cette silhouette me dit quelque chose...
+#end
+
+
+#s04
+$0101#player_vision
+Désolée, mais...*Tu ne serais pas Hieda no Akyuu ?
+$0202#akyuu_ob
+Oh, bonjour !
+$0101#player_vision
+Bonjour... Enfin...*Que fais-tu ici ?
+$0202#akyuu_ob
+Moi ? Rien de particulier.*Je prends juste un peu de repos.
+$0101#player_vision
+Ah...
+(Elle a quelque chose d'étrange...)
+(C'est sûrement un double créé par le monde de Dame Remilia.)
+$0202#akyuu_ob
+Notre rencontre est un signe du destin.*Souhaites-tu que je la consigne ?
+$0101#player_vision
+Ah oui, les écrits, c'est ta spécialité.
+Je veux bien, comme je ne sais pas vraiment ce qui m'attend.
+$0202#akyuu_ob
+Entendu.
+Dans ce cas, utilise ce téléphone public.
+$0101#player_vision
+Téléphone... public... ?
+$0202#akyuu_ob
+L'appareil vert derrière moi.*Essaie donc de l'utiliser.
+#end
+
+
+#s02
+$1202+2#pos,04224,01632
+Allô ?
+$0101#player_vision
+Akyuu ? Pourquoi est-ce que j'entends ta voix ?
+$1202+2#pos,04224,01632
+Cela n'a pas d'importance.
+Passe-moi régulièrement des appels*pour que je garde une trace de tes exploits !
+$0101#player_vision
+Je vois, merci.*J'utiliserai le téléphone.
+#end
+
+
+#s03
+$1303+2#pos,06304,02016
+Allô ?
+$0101#player_vision
+Nitori ?
+Qu'est-ce que tu fais au bout de cette ligne ?
+$1303+2#pos,06304,02016
+Pourquoi ça te surprend ?
+Je les ai installés moi-même, ces téléphones.
+$0101#player_vision
+Vr-Vraiment ?
+$1303+2#pos,06304,02016
+Alors, la montre fonctionne ?
+$0101#player_vision
+Oui, elle m'est très utile.
+$1303+2#pos,06304,02016
+Génial !
+Au fait, ma boutique est en place.*Passe quand tu veux !
+$0101#player_vision
+Ta... quoi ?
+$1303+2#pos,06304,02016
+J'ai plein d'objets utiles, je te dis !*Alors viens les acheter !
+$0101#player_vision
+...
+$1303+2#pos,06304,02016
+Je t'ai donné cette montre ou pas ?
+$0101#player_vision
+Oui, mais je n'ai pas d'argent.
+$1303+2#pos,06304,02016
+Tu as bien des gemmes, non ?
+Je te les achète.
+$0101#player_vision
+Des gemmes ?
+Oh, celles que j'ai ramassées en chemin.
+$1303+2#pos,06304,02016
+Ce sont des ressources précieuses.*Elles ont beaucoup de valeur.
+$0101#player_vision
+Hmm...*D'accord, j'essaierai de passer.
+#end
+
+
+
+#s05
+$0303#nitori_ob
+Pfiou !
+Ce vol d'essai est une réussite !
+$0101#player_vision
+Tu es... Nitori, n'est-ce pas ?*Quelle est cette étrange machine ?
+$0303#nitori_ob
+Quoi, ça ?*C'est un robot que j'ai fabriqué !
+$0101#player_vision
+Pardon... ?
+$0303#nitori_ob
+Blague à part, humaine.
+Qu'est-ce que tu fais dans le coin ?
+$0101#player_vision
+(Cette Nitori non plus n'a pas l'air d'être la vraie...)
+(Mais elle doit bien être là pour une raison.)
+(Je ferais mieux de jouer le jeu.)
+J'ai mes raisons.*Et toi, que fais-tu ici ?
+$0303#nitori_ob
+Je fais tourner mon affaire et je teste mon engin.
+$0101#player_vision
+Comment ça, ton affaire ?
+$0303#nitori_ob
+Je vends des choses.*Par exemple, qu'est-ce que tu dis de cette montre ?
+$0101#player_vision
+Une montre... ? Désolée, mais j'en ai déjà une à laquelle je tiens énormément.
+$0303#nitori_ob
+Tu devrais la prendre.
+Tu ne vas pas te promener sans pouvoirs, quand même ?
+$0101#player_vision
+C-Comment sais-tu que...
+$0303#nitori_ob
+Avec cette montre,*tu devrais être capable d'utiliser tes pouvoirs.
+C'est un puissant objet magique.*Il permet de contrôler le temps.
+$0101#player_vision
+Contrôler le temps, tu dis ?
+$0303#nitori_ob
+Je te la donne en gage de bonne foi.
+Je pense que tu seras la seule à pouvoir t'en servir.
+$0101#player_vision
+Hmm...*Si tu me la donnes, je ne vais pas refuser.
+$0303#nitori_ob
+Pour arrêter le temps, appuie sur [Arrêt du temps].
+$0101#player_vision
+[Arrêt du temps] ? Compris.
+#end
+
+
+#s06
+$0404#NSenemy_0_08
+Plus un pas !
+Tu n'iras pas plus loin !
+$0101#player_vision
+Qu'est-ce qui te prend, Meiling ?
+$0404#NSenemy_0_08
+Je suis vraiment désolée.
+Ce sont les ordres de Dame Remilia...
+$0101#player_vision
+Je vois. Tu es donc la vraie Meiling.
+$0404#NSenemy_0_08
+Tu dois me vaincre si tu veux passer !
+$0101#player_vision
+En temps normal, tu ne me poserais aucun problème, mais...
+Vu les circonstances, ce combat s'annonce difficile.
+$0404#NSenemy_0_08
+Dame Remilia m'a ordonné de ne te faire*aucun traitement de faveur. Alors en garde !
+$0101#player_vision
+Je n'en attendais pas moins.*Allez ! Approche !
+#end
+
+
+#t07
+$0404#NSenemy_0_08
+Hnng ! Je vois...
+Tu ne me laisses pas le choix !
+#end
+
+
+#t08
+$0404#NSdestroy_0_08
+Aaaah !
+$0101#player_vision
+Tu as perdu, Meiling.
+#end
+
+
+#s09
+$0404#NSdestroy_0_08
+Pff... J'ai échoué...
+$0101#player_vision
+Je vais passer, maintenant.
+$0404#NSdestroy_0_08
+Je... ne peux pas t'en empêcher...
+Mais je dois te dire...
+$0101#player_vision
+Oui ?
+$0404#NSdestroy_0_08
+Je ne sais pas si ça t'aidera,*mais tu vas devoir affronter d'autres adversaires que moi.
+Alors... euh...*Fais attention à toi...
+$0101#player_vision
+Je tâcherai de m'en souvenir...
+#end
+
+
+#s10
+$0101#player_vision
+D'autres adversaires qu'elle...
+Cette Meiling était la vraie, ça ne fait aucun doute...
+Dame Remilia...*Vous aimez vraiment les jeux compliqués...
+#end
+
+
+#t11
+$0101#player_vision
+Ça alors...*Ça me permet de contrôler mon pouvoir de manipulation du temps !
+On est encore loin de mes vrais pouvoirs, mais...*C'est mieux que rien...
+Même si j'aurais préféré m'en passer,*cette montre est ma seule alliée pour l'instant.
+#end
+
+
+#t12
+$0101#player_vision
+Des bains ? Ici ?
+Si j'arrête le temps dans l'eau,*celle-ci va se solidifier et je ne pourrai plus bouger.
+Je vais devoir être prudente.
+#end
+
+
+#s13
+$0303#nitori_ob
+Bienvenue.
+J'ai toutes sortes d'articles à te proposer !
+$0101#player_vision
+...
+$0303#nitori_ob
+Si tu ne veux pas faire affaire,*tu pourrais me rendre ma montre ?
+$0101#player_vision
+Très bien, très bien.
+#end
+
+
+#t14
+$0101#player_vision
+Hnng... Mes pouvoirs !
+Impossible de lancer mes dagues dans ces conditions.*Il faut que je récupère des PM...
+#end
+
+
+#t15
+$0101#player_vision
+Hmm, ça fait du bien !
+J'ai récupéré tous mes PV et mes PM !
+#end
+
+
+#s16
+$1303+2#pos,10800,01632
+Coucou ! Ça va ?
+$0101#player_vision
+Nitori... Que me veux-tu, cette fois ?
+$1303+2#pos,10800,01632
+J'ai oublié de t'en parler, mais...
+Tu as vu mes distributeurs ?
+$0101#player_vision
+Tes quoi ?
+$1303+2#pos,10800,01632
+Des machines d'un autre monde que j'ai modifiées à ma sauce.
+Elles te fourniront de délicieux rafraîchissements !
+C'est parfait pour récupérer des PV et des PM.*Tu devrais essayer !
+Ah, et n'oublie pas de mettre tes canettes vides à la poubelle !
+$0101#player_vision
+Oh, tu parles de ces boîtes à boissons...
+Je m'en suis déjà servie.
+$1303+2#pos,10800,01632
+Génial !
+Je pense que le boss n'est plus très loin.*N'hésite pas à revenir me voir, en tout cas !
+$0101#player_vision
+Attends, quoi ? Le... Le boss ?
+$1303+2#pos,10800,01632
+À plus !
+#end
+
+
+#s17
+$0505+1#mark00
+Tu t'en sors bien.
+$0101#player_vision
+Cette voix... Dame Remilia, c'est vous ?
+$0505+1#mark00
+Hi hi hi ! Je te retrouve bien là, Sakuya...
+$0101#player_vision
+Même avec des pouvoirs limités,*il en faut plus que ça pour m'arrêter.
+$0505+1#mark00
+Hi hi hi, tout se passe comme je l'avais prévu pour l'instant.
+Mais en diras-tu autant une fois dans le vrai jeu ?
+$0101#player_vision
+Le vrai... jeu... ?
+$0505+1#mark00
+Oui...
+Tout ceci n'est qu'une version d'essai.
+Pour en savoir plus, il faut faire la version complète.
+$0101#player_vision
+La version... complète...
+À vrai dire... Je me disais bien que vous auriez préparé*quelque chose d'un peu plus consistant que ça.
+$0505+1#mark00
+Il faudra attendre encore un peu avant la sortie officielle,*alors sois patiente !
+En tout cas, tu as terminé la version d'essai. Félicitations !
+Je t'attendrai dans la version complète.*À plus tard...
+#end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////////////////////////////9999999//////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+フランス語
+
+bgm01
+La servante et la montre de sang
+bgm02
+Voile, la bibliothèque magique
+boss01
+L'éclat magistral couleur d'amour
+boss02
+Recluse
+bgm03
+La jeune descendance de Tepes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@90
+Obtenu : Clé jaune
+Vous pouvez désormais ouvrir les portes qui luisent en jaune.
+
+@91
+Obtenu : Clé verte
+Vous pouvez désormais ouvrir les portes qui luisent en vert.
+
+@92
+Obtenu : Clé bleue
+Vous pouvez désormais ouvrir les portes qui luisent en bleu.
+
+@70
+Obtenu : Montre éternelle
+Vous pouvez désormais*figer le temps plus longtemps.
+
+@80
+Obtenu : Dagues de saut
+Vous pouvez désormais faire des doubles sauts*(ce pouvoir ne fonctionne pas dans l'eau).
+
+@81
+Obtenu : Marche-lame
+Vous pouvez désormais monter sur vos dagues*quand le temps se fige.
+
+@88
+Obtenu : Coupon Kappa
+Vous pouvez appeler Nitori quand vous le souhaitez.
+
+
+
+
+
+
+////////////////////////////9999999//////////////////////////////
+
+
+
+
+
+
+
+
+
+#ta7
+$0505+3#pos,03376,02384
+Brume rouge
+La brume rouge vous empêche*de figer le temps lorsque vous la touchez.
+Vous récupérerez votre pouvoir*au bout d'un certain temps.
+#end
+
+#ta8
+$0505+3#pos,05648,00880
+Les objets avec une aura violette*continuent de bouger quand le temps se fige.
+#end
+
+#ta9
+$0505+3#pos,01776,02160
+Les objets avec une aura verte*ne bougent que quand le temps se fige.
+#end
+
+#sb0
+$0505+3#pos,00944,01648
+Danger ! Présence de mandragores.
+#end
+
+
+
+
+
+////////////////////////////9999999//////////////////////////////
+
+
+
+
+
+
+#s18
+$0505+1#pos,03000,00992
+Hé, la bonne !*Bouge plus ou je te dégomme !
+$0101#player_vision
+... !
+Je reconnais cette voix...
+#end
+
+#s19
+$0606#NSenemy_0_12
+T'as l'air de t'amuser !
+Laisse-moi venir avec toi !
+$0101#player_vision
+Avant toute chose,*tu peux me dire ce que tu fais ici ?
+$0606#NSenemy_0_12
+J'étais venue emprunter un livre à la bibliothèque,*mais en entendant parler du jeu de Remilia, j'ai décidé de m'incruster.
+T'inquiète pas !*Elle m'a donné la permission d'entrer.
+$0101#player_vision
+Oh... Dame Remilia...
+Laisser cette voleuse s'introduire ainsi chez vous...*Votre indulgence vous perdra.
+$0606#NSenemy_0_12
+Hé ! Me traite pas de voleuse !
+Je fais des emprunts à vie, c'est tout.
+$0101#player_vision
+Prendre un objet sans autorisation, c'est du vol.
+Mais tu tombes bien, je vais pouvoir m'occuper de toi.
+$0606#NSenemy_0_12
+Non, c'est moi qui vais te régler ton compte !
+Ta partie s'arrête ici, la bonne !
+#end
+
+#t20
+$0606#NSenemy_0_12
+Allez, je me lâche !
+Mange-toi mon éclat magistral !
+#end
+
+#t21
+$0606#NSdestroy_0_12
+Ce... Ça devait pas se passer comme ça !
+Tu... Tu devrais pas avoir tes pouvoirs !
+$0101#player_vision
+Ah bon ?*Je ne me souviens pas t'avoir dit cela.
+$0606#NSdestroy_0_12
+Bon sang, Remilia !
+Tu t'es bien moquée de moi !
+#end
+
+#s22
+$0606#NSdestroy_0_12
+Je... Je t'ai sous-estimée...
+T'es plutôt douée pour une bonne...
+$0101#player_vision
+C'est justement parce que je suis la gouvernante de Dame Remilia*que je ne laisse aucune chance à ses ennemis.
+$0606#NSdestroy_0_12
+Mais je t'ai dit*qu'elle m'avait donné la permission !
+$0101#player_vision
+Mais oui, bien sûr...*Tu as perdu, alors sois gentille et rentre chez toi.
+$0606#NSdestroy_0_12
+Je... J'ai retenu mes coups exprès*et c'est comme ça que tu me remercies ?
+Tu pourrais au moins me servir*un thé ou un café, tu crois pas ?
+$0101#player_vision
+Cela m'est impossible dans ce monde factice.*Je suis désolée.
+$0606#NSdestroy_0_12
+Bon, tant pis.*Je visite un peu cet endroit et je rentre.
+Allez, à plus !
+#end
+
+#s23
+$0101#player_vision
+Décidément...*Cette sorcière n'en fait qu'à sa tête.
+Mais elle a dit que Dame Remilia*s'était moquée d'elle...
+Qu'est-ce que ça signifie ?
+#end
+
+#s24
+$0707#pachu_ivent
+Tiens ? Sakuya !*Tu as vraiment fait vite...
+$0101#player_vision
+Mademoiselle Patchouli...*Je me doutais bien que vous seriez là.
+$0707#pachu_ivent
+Alors ? Est-ce que tu t'amuses ?
+$0101#player_vision
+D'une certaine façon...
+Est-ce vous qui avez créé*la totalité de ce monde ?
+$0707#pachu_ivent
+Oui. Tu sais comment est Remy.*Si ça n'existe pas, elle me demande de le créer.
+Dans Gensokyo, la prêtresse en rouge et blanc*nous aurait gênées, alors j'ai fait ce monde parallèle.
+Tout est devenu trop calme pour Remy.*Il lui fallait quelque chose de stimulant.
+$0101#player_vision
+Vous auriez pu me le dire.*J'aurais joué le jeu, vous savez...
+$0707#pachu_ivent
+Ça n'aurait pas été aussi intéressant.
+L'effet de surprise rend ça beaucoup plus excitant.
+$0101#player_vision
+Vous avez sûrement raison,*mais j'avais autre chose de prévu...
+$0707#pachu_ivent
+Remy est imprévisible*avec ses caprices.
+$0101#player_vision
+En effet...
+$0707#pachu_ivent
+Enfin... Puisque tu es venue jusqu'ici,*amusons-nous un peu.
+$0101#player_vision
+Je veux bien, mais...*Qu'en est-il de votre condition physique ?
+$0707#pachu_ivent
+Ne t'en fais pas pour moi.*Je vais bien, aujourd'hui.
+Je vais te donner un aperçu de mes vrais pouvoirs.
+#end
+
+#t25
+$0707#NSenemy_0_28
+Pas mal du tout...
+Qu'est-ce que tu dis de ça ?
+#end
+
+#t26
+$0707#NSdestroy_0_28
+Kof kof !
+Argh... Ce n'est pas le moment de faire une crise d'asthme !
+#end
+
+#s27
+$0101#player_vision
+Toutes mes excuses.*J'ai été un peu trop agressive...
+$0707#NSdestroy_0_28
+Kof kof...
+I-Inutile de t'excuser. Je me suis bien amusée...
+Mais j'ai été surprise de te voir utiliser tes pouvoirs.*Je les avais scellés normalement.
+Tu as réussi à briser le sceau par toi-même ?
+$0101#player_vision
+Non, j'ai été aidée par une kappa dans un robot.
+D'habitude, je n'aime pas trop me reposer sur un simple outil, mais...
+$0707#NSdestroy_0_28
+... ?
+Oh, Remy... Elle n'a pas pu s'empêcher*de te laisser une alliée de taille, hein ?
+Quoique... Peut-être pas, en fait.*Mon intuition était la bonne.
+... J'avais un mauvais pressentiment alors j'ai fait tomber la pluie,*mais si elle utilise un robot, elle est très futée...
+$0101#player_vision
+Que voulez-vous dire ?
+$0707#NSdestroy_0_28
+Oh ! Hmm...*Rien, rien !
+D'ailleurs, tu peux poursuivre ta route,*vu que tu as gagné.
+$0101#player_vision
+Vais-je bientôt rencontrer Dame Remilia ?
+$0707#NSdestroy_0_28
+Oui, Remy t'attend dans la tour de l'horloge, un peu plus loin.
+Elle doit sûrement être impatiente*de pouvoir jouer avec toi.
+$0101#player_vision
+Alors je dois la rejoindre au plus vite.*Déjà que je vous ai fait attendre...
+D'ailleurs... Rentrez prendre un peu de repos, je vous prie.
+$0707#NSdestroy_0_28
+Oui, je vais retourner au manoir... Le vrai, j'entends.
+#end
+
+#s28
+$0101#player_vision
+C'est donc bien Mademoiselle Patchouli qui a créé ce monde...
+Il ne reste plus que Dame Remilia, à présent.
+Si je veux sortir rapidement d'ici,*je dois la rejoindre au plus vite !
+#end
+
+
+#s29
+$0303#nitori_ob
+Salut !*Ça va ?
+$0101#player_vision
+Tiens donc, Nitori.*Un problème ?
+$0303#nitori_ob
+Oh, non, non !*Je récupère juste des gemmes.
+Au fait, je t'ai rapporté un petit quelque chose, humaine.*Je suis sûre que ça va te plaire.
+$0101#player_vision
+Qu'est-ce que c'est ?
+$0303#nitori_ob
+Un coupon Kappa.
+Tu peux m'appeler quand tu veux avec ça.
+Tu peux même me vendre des gemmes ou faire des achats*en plein combat contre un boss !
+Du pur génie, cette invention !*Tu n'es pas d'accord ?
+$0101#player_vision
+Euh... Si...*Tu es motivée, c'est certain...
+$0303#nitori_ob
+Eh bien, ne fais pas cette tête !*Tu dois avoir pas mal de gemmes maintenant, non ?
+Je pense que ça te facilitera la vie*si tu me les vends pour acheter des objets.
+Ce que j'essaie de te dire,*c'est de faire appel à moi plus souvent !
+$0101#player_vision
+D'accord, OK, j'ai compris...*Je ferai appel à toi.
+#end
+
+#s30
+$0303#nitori_ob
+Hé ! Comme on se retrouve, humaine !
+$0101#player_vision
+Encore toi, Nitori...
+Tu n'as rien perdu de ton enthousiasme, je vois...
+D'ailleurs, je me demandais...*Que comptes-tu faire de toutes ces gemmes ?
+$0303#nitori_ob
+Ces gemmes sont des cristaux de magie.*Plus on en a, plus nos pouvoirs deviennent puissants.
+$0101#player_vision
+Quoi ? Attends une minute !*Je n'étais pas au courant de ça !
+$0303#nitori_ob
+Hein ? Ah bon ?*Tu... Tu es sûre ?
+J'ai oublié de te le dire, alors ?
+$0101#player_vision
+...
+$0303#nitori_ob
+Tu peux vérifier les effets de chaque gemme*dans le menu de vente des gemmes.
+$0101#player_vision
+Je vois...
+Mais... Si mes pouvoirs s'améliorent en les gardant,*je devrais éviter de vous les vendre, non ?
+$0303#nitori_ob
+Non, je pense que tu t'en tireras mieux*si tu les vends pour acheter mes articles.
+L'effet des gemmes n'est pas si puissant que ça.
+$0101#player_vision
+Vous me dites ça parce que ça vous arrange...
+$0303#nitori_ob
+N-Non ! Pas du tout !
+J'espère que tu me vendras beaucoup de gemmes, cela dit !
+#end
+
+
+
+#s31
+$1202+2#pos,06880,00928
+Allô ?
+$0101#player_vision
+Bonjour, Akyuu.*Qu'y a-t-il ?
+$1202+2#pos,06880,00928
+Une très puissante lanceuse de sorts*vous attend plus loin...
+Vos pouvoirs limités risquent de vous compliquer la tâche,*mais ne baissez pas les bras.
+$0101#player_vision
+Ne vous en faites pas.*J'ai déjà récupéré mes pouvoirs.
+$1202+2#pos,06880,00928
+Même si vous ne pouvez pas figer le temps,*vous devriez pouvoir le ralentir.
+Faites-le à bon escient*et la victoire sera vôtre.
+$0101#player_vision
+Tu m'écoutes, au moins ?*Je suis déjà capable d'arrêter le temps !
+$1202+2#pos,06880,00928
+...
+$0101#player_vision
+Que se passe-t-il ?
+$1402+2#pos,06880,00928
+Inutile de me remeRciEr...*C'eSt toUt... ce qUE... jE peUx faIRe.
+$0101#player_vision
+Euh...
+$1402+2#pos,06880,00928
+...
+oH, bONjoUr...
+$0101#player_vision
+Akyuu ?*Tu parles d'une étrange façon...
+$1402+2#pos,06880,00928
+mOI ? Rien de paRTicuLieR.*Je pREnDs jUSte un pEu de rEPos...
+$0101#player_vision
+Quelque chose ne tourne pas rond.
+Qu'est-ce qu'il lui arrive ?
+#end
+
+
+#s32
+$0505+1#mark00
+Bravo, Sakuya.
+$0101#player_vision
+C'est la voix de Dame Remilia...
+$0505+1#mark00
+Tu as réussi à vaincre Patchouli malgré tes pouvoirs limités.*Je suis impressionnée.
+$0101#player_vision
+Dame Remilia ! Je vais vous rejoindre*et enfin pouvoir retourner dans le monde réel.
+$0505+1#mark00
+Désolée. C'est encore un peu tôt pour ça.
+$0101#player_vision
+Ne me dites pas que...
+$0505+1#mark00
+Si. Tu es toujours dans une version d'essai.
+$0101#player_vision
+Encore ?
+$0505+1#mark00
+Tu vas devoir attendre la version complète.
+$0101#player_vision
+Attendez...*Vous m'avez déjà dit ça la dernière fois...
+$0505+1#mark00
+Ce serait trop long à expliquer...
+En tout cas, tu es arrivée jusqu'à la fin du niveau 3.*Félicitations !
+À plus tard...
+#end
+
+
+
+
+
+
+
+
+
+
+////////////////////////////2222222//////////////////////////////
+
+
+
++purchase04
+Boss Rush
+Annuler
+Commencer le mode Boss Rush
+
+
+
+
+
+
+bgm04
+Floraison nocturne
+boss03
+Septuor pour une princesse défunte
+boss04
+La kappa d'Akutagawa
+boss05
+Nuit des nuits
+boss06
+C'était elle, U.N. Owen ?
+
+
+
+
+
+@04
+Obtenu : Dagues protectrices
+Fait apparaître des dagues qui tournent autour de vous.*Coût : 25 PM
+
+@05
+Lame sainte perdue
+Une lame douée de volonté qui attaque les ennemis d'elle-même.
+
+@82
+Obtenu : Vrilles
+Vous pouvez désormais détruire les caisses en bois.
+
+@93
+Obtenu : Clé violette
+Vous pouvez désormais ouvrir les portes qui luisent en violet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#tb0
+$0505+3#pos,05648,01104
+Les objets avec une aura jaune*retournent en arrière quand le temps se fige.
+#end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#s33
+$0505#NSenemy_0_47
+Hi hi hi !
+Tu as fait vite, Sakuya.
+$0101#player_vision
+Dame Remilia...
+J'aurais apprécié que vous attendiez un moment*où je ne suis pas occupée pour votre petit jeu.
+$0505#NSenemy_0_47
+Mais n'est-ce pas le propre d'une gouvernante*d'avoir toujours une tâche à accomplir ?
+$0101#player_vision
+Précisément. C'est bien pour cela que je voudrais rentrer au manoir...
+Les courses, la lessive, le ménage...*Je n'ai encore rien fait, aujourd'hui.
+$0505#NSenemy_0_47
+Hi hi hi !
+Tu ne crois quand même pas que je vais te laisser partir aussi facilement ?
+$0101#player_vision
+...
+$0505#NSenemy_0_47
+Allez, Sakuya ! En garde !*Je veux te voir rouge comme le sang !
+#end
+
+#t34
+$0505#NSenemy_0_46
+Hi hi !*On s'amuse bien, non ?
+Mais passons aux choses sérieuses !
+#end
+
+#t35
+$0505#NSenemy_0_46
+Hmpf !
+Mais c'est que tu te défends !
+$0101#player_vision
+Dans ce monde, rien n'est impossible. Même vous vaincre !
+$0505#NSenemy_0_46
+Hi hi ! Je reconnais bien là ma gouvernante.
+$0909+4#mark01
+La victoire est à moi !
+#end
+
+#r36
+$0505#NSenemy_0_46
+Il est temps d'en finir !
+#end
+
+#t36
+$0505#NSdestroy_0_46
+C'est... C'est impossible !
+#end
+
+#s37
+$0505#NSdestroy_0_46
+Ah...
+Moi qui comptais finir sur une victoire éclatante...
+$0101#player_vision
+J'ai malgré tout passé un agréable moment.
+Ce fut un plaisir d'être invitée*sur votre terrain de jeu, Dame Remilia...
+$0505#NSdestroy_0_46
+Dis-moi, Sakuya... Comment as-tu fait pour récupérer tes pouvoirs ?
+Est-ce que Patche t'a donné un coup de pouce ?
+$0101#player_vision
+... ?
+Non, c'est grâce à un objet que m'a donné cette kappa, Nitori.
+Je pensais que c'était vous qui l'aviez placée là...
+$0505#NSdestroy_0_46
+Ne dis pas n'importe quoi.
+Le seul personnage que j'ai mis, c'est celui pour sauvegarder.
+$0101#player_vision
+Alors, cette Nitori...*C'était la vraie ?
+$0505#NSdestroy_0_46
+Patche a sûrement dû*la faire venir à mon insu...
+Elle va entendre parler de moi, celle-là !
+$0101#player_vision
+Pourrions-nous rentrer, à présent ?
+J'ai du travail qui m'attend.
+$0505#NSdestroy_0_46
+Oui, bien sûr.*Tout ne s'est pas passé comme prévu, mais bon...
+Un claquement de doigts et on sera chez nous.
+Tu me prépareras un bon thé quand on sera rentrées.
+$0101#player_vision
+Très bien, Dame Remilia.
+#end
+
+
+
+#s38
+$0505#NSdestroy_0_46
+...
+$0101#player_vision
+...
+$0505#NSdestroy_0_46
+Tiens...
+$0101#player_vision
+Que se passe-t-il ?
+$0505#NSdestroy_0_46
+Bizarre...
+On devrait être de retour au manoir, normalement...
+$0101#player_vision
+Nous ne pouvons plus sortir ?
+$0505#NSdestroy_0_46
+Non...*On dirait que quelqu'un a modifié les règles du jeu...
+Mais qui ?
+$0808+1#mark00
+Ha ha ha ! Vous n'avez vraiment rien remarqué, alors ?
+$0101#player_vision
+Q-Qui est là ?
+$0808+1#mark00
+Pendant que vous étiez occupées à vous amuser,*j'en ai profité pour prendre le contrôle de ce monde.
+Personne ne sort d'ici*sans mon accord !
+$0101#player_vision
+!?
+$0505#NSdestroy_0_46
+Me voler mon propre monde ?*Tu ne manques pas d'audace !
+$0808+1#mark00
+Ton monde, ton monde...
+Je te signale quand même qu'il n'aurait jamais existé sans moi !
+$0505#NSdestroy_0_46
+... !
+$0101#player_vision
+Je ne sais pas qui vous êtes, mais laissez-nous sortir,*ou vous aurez affaire à moi !
+$0808+1#mark00
+Oh, vous voulez jouer avec moi ?*Dans ce cas, je vous attends dans la salle du trône.
+Si vous parvenez à me battre,*je vous rendrai ce monde.
+À tout à l'heure !
+$0505#NSdestroy_0_46
+...
+$0101#player_vision
+Dame Remilia...*Où se trouve la salle du trône ?
+$0505#NSdestroy_0_46
+Au tout dernier étage de ce château.
+Tu peux t'en charger, Sakuya ?
+Moi, il faut que j'aille vérifier quelque chose...
+$0101#player_vision
+Oui, bien sûr.
+C'est comme si c'était fait, Dame Remilia.
+$0505#NSdestroy_0_46
+Merci.
+#end
+
+#s39
+$0101#player_vision
+Subtiliser à Dame Remilia le monde qu'elle a créé...
+Qui pourrait bien faire ça ?
+Allez, en route pour la salle du trône...
+J'aviserai une fois là-bas.
+#end
+
+#s40
+$0303+1#pos,01280,00608
+Enfin te voilà !
+$0101#player_vision
+Qui est là ?
+#end
+
+#s41
+$0303#pos,01280,00608
+Coucou !
+Je t'attendais, humaine.
+$0101#player_vision
+Nitori !
+C'est toi qui as...
+$0303#pos,01280,00608
+Oui, j'ai pris le contrôle de ce monde.
+Alors ?*Surprise ?
+$0101#player_vision
+Mais... pourquoi faites-vous ça ?
+$0303#pos,01280,00608
+Pourquoi... ?*
+À vrai dire,*je me fiche pas mal de ce monde.
+Je suis juste venue récupérer*les gemmes qu'on m'a volées.
+$0101#player_vision
+Volées ?
+$0303#pos,01280,00608
+Je t'expliquerai tout*si tu me bats.
+Enfin... Bonne chance pour ça.*Je contrôle ce monde après tout !
+#end
+
+#s42
+$0303#nitori_ob
+Salut !*Je te cherchais, humaine.
+$0101#player_vision
+Que me veux-tu ?
+$0303#nitori_ob
+J'ai un autre cadeau pour toi.
+Tiens ! Prends ce coupon Kappa !
+$0101#player_vision
+Encore un ?*Tu veux vraiment mon argent, toi...
+$0303#nitori_ob
+Ton argent ? Oui, ça aussi, c'est sûr,*mais ce sont surtout les gemmes qui m'intéressent.
+$0101#player_vision
+J'avais cru remarquer...
+Merci pour le coupon, en tout cas.
+$0303#nitori_ob
+Tu n'es plus très loin de la fin, alors tu ferais bien*de vendre tes gemmes et de t'équiper maintenant.
+$0101#player_vision
+Oui, j'en prends note.
+#end
+
+#t43
+$0303#NSenemy_0_60
+Ma parole !*Tu as du répondant !
+Je vais te montrer de quoi*cette arme est capable !
+#end
+
+#t44
+$0303#NSdestroy_0_60
+Noooon !
+#end
+
+#s45
+$0303#nitori_stage04_ivent
+Pff...*C'est vraiment pas marrant avec des machines...
+Elles se cassent trop vite !
+On s'ennuie, là ! Je veux un vrai combat !
+$0101#player_vision
+... ?
+La Nitori que je connais ne dirait jamais ça...
+$0303#nitori_stage04_ivent
+Bien sûr que non !*Mais je ne suis pas la vraie Nitori !
+$0101#player_vision
+Pardon ?
+$0303#nitori_stage04_ivent
+Bon, je vais te montrer.*Je t'avais promis, après tout.
+$0101#player_vision
+!?*Ces... ces ailes ! Vous êtes...
+#end
+
+#s46
+$0101#player_vision
+Ma-Mademoiselle Flandre ?
+$0808#nitori_stage04_ivent
+HA HA HA HA HA !
+Eh oui !*C'était moi depuis le début !
+Ma pauvre...*Tu ne t'es vraiment rendu compte de rien !
+$0101#player_vision
+Je trouvais que Nitori avait*un comportement un peu étrange, mais...
+Mais tu n'aurais jamais imaginé que je puisse prendre son apparence, hein ?
+Cela dit...*Je ne sais toujours pas pourquoi vous agissez ainsi.
+$0808#nitori_stage04_ivent
+Ah, oui.*C'est parce que Remilia a été méchante avec moi.
+Elle... Elle m'a pris mes cristaux de magie*et s'en est servie pour créer ce monde.
+$0101#player_vision
+Vos cristaux de magie ?*Vous voulez parler des gemmes que j'ai ramassées ?
+$0808#nitori_stage04_ivent
+Oui !*Mes jolis cristaux... Mon bien le plus précieux...
+Remilia a attendu que je dorme*pour me les subtiliser !
+$0101#player_vision
+Je vois...*C'est de cela que Dame Remilia parlait, alors...
+$0808#nitori_stage04_ivent
+Elle a créé ce monde avec mes précieuses gemmes*et m'a encore laissée toute seule...
+Alors j'ai décidé de vous retenir ici toutes les deux*pour vous donner une bonne leçon.
+$0101#player_vision
+Mais...
+J-Je n'y suis pour rien, moi...
+$0808#nitori_stage04_ivent
+Mais bien sûr...*Alors pourquoi tu joues avec ma sœur ?
+$0101#player_vision
+C'est Dame Remilia qui m'a amenée ici.*Je n'avais rien demandé...
+$0808#nitori_stage04_ivent
+Oh... Bon, eh bien, si tu me bats,*je veux bien te pardonner pour cette fois.
+$0101#player_vision
+Vous me donnez votre parole ?
+#end
+
+#s47
+$0808#NSenemy_0_70
+Tu as vu comme je suis puissante ?*C'est grâce à toutes les gemmes que tu m'as données !
+$0101#player_vision
+Quelle idiote ! Je n'aurais pas dû en vendre autant...
+$0808#NSenemy_0_70
+Hi hi hi !*C'est trop tard, maintenant !
+#end
+
+#s48
+$0808#NSenemy_0_70
+Pourquoi tu ne m'as pas vendu tes gemmes ?*J'aurais pu être plus puissante que ça...
+$0101#player_vision
+J'ai bien fait de les garder, on dirait !*Je n'aurais pas voulu vous affronter à pleine puissance.
+$0808#NSenemy_0_70
+Pff !*Si tu crois que ça va m'empêcher de te battre !
+#end
+
+#t49
+$0808#NSenemy_0_70
+HA HA HA HA HA !*Merci, Sakuya !
+Tu es prête pour la suite ?*On commence à peine à s'amuser !
+#end
+
+#t50
+$0808#NSenemy_0_70
+Ha ha ha ! HA HA HA HA HA HA HA !*ENCORE ! ENCORE !
+JOUE AVEC MOI, SAKUYA !*NE ME LÂCHE PAS MAINTENANT !
+#end
+
+#t51
+$0808#NSdestroy_0_70
+AAAAAAH !
+#end
+
+#s52
+$0808#NSdestroy_0_70
+Alors... J'ai perdu ?
+Pourquoi vous êtes si méchantes avec moi ?*Pourquoi vous me dites jamais rien ?
+Pourquoi vous... me prenez... mes cristaux ?
+Je vous déteste, Remilia et toi !*Patche aussi ! Je vous déteste toutes !
+$0101#player_vision
+Mademoiselle Flandre...
+#end
+
+#s53
+$0505#remi_stage04_ivent
+Flandre ! Je savais bien que c'était toi...
+$0101#player_vision
+Dame Remilia...
+Mademoiselle Flandre m'a tout expliqué.*Je vous prie de m'excuser, mais je ne peux cautionner vos actes.
+$0505#remi_stage04_ivent
+Oui, je sais. Je suis la seule responsable...*Je comptais lui rendre ses gemmes, à vrai dire.
+$0808#NSdestroy_0_70
+Oui, tu vas me les rendre,*et tu vas recommencer à m'ignorer, c'est ça ?
+$0505#remi_stage04_ivent
+...
+$0101#player_vision
+Dame Remilia...
+$0505#remi_stage04_ivent
+Je sais, Sakuya, je sais...*La prochaine fois, je jouerai avec elle.
+$0808#NSdestroy_0_70
+C'est vrai... ?
+$0505#remi_stage04_ivent
+Désolée, petite sœur. Je n'aurais pas dû te prendre*tes affaires pour m'amuser avec dans mon coin.
+Tu veux qu'on crée le prochain niveau ensemble*quand on sera rentrées ?
+$0808#NSdestroy_0_70
+Oui, s'il te plaît !
+$0101#player_vision
+Hé hé...*Ravie de vous voir réconciliées !
+$0505#remi_stage04_ivent
+Tu sais que ça veut dire qu'on fera*de nouveau appel à toi, n'est-ce pas ?
+$0101#player_vision
+...
+$0505#remi_stage04_ivent
+Allez, rentrons à la maison !
+Tu nous prépareras un bon thé... D'accord, Sakuya ?
+$0101#player_vision
+Très bien, Dame Remilia.
+#end
+
+#s54
+$0505+1#mark00
+Sakuya ! Tu m'entends ?
+$0101#mark01
+Dame Remilia ?*Qu'y a-t-il ?
+$0505+1#mark00
+Félicitations !*Tu es arrivée à la fin du jeu !
+Mais ce n'est pas fini...*Il reste encore une mise à jour.
+$0101#mark01
+Oh, c'est la fameuse partie secrète*promise si on termine le jeu ?
+$0505+1#mark00
+Oui...*Le niveau bonus.
+$0101#mark01
+Je vois...
+Mais Dame Remilia...*Qui sera mon adversaire, cette fois ?
+$0505+1#mark00
+Oh, ça...*Tu verras bien !
+Avec cette mise à jour, le jeu sera enfin complet.*À la prochaine fois !
+#end
+
+
+
+////////////////////////////55555555//////////////////////////////
+
+
++purchase04
+Boss Rush
+Annuler
+Commencer le mode Boss Rush
+
+
+
+
+&&namelist
+????
+Sakuya
+Akyuu
+Nitori
+Meiling
+Remilia
+Marisa
+Patchouli
+Flandre
+Remilia et Sakuya
+Reimu
+Cirno
+
+
+bgm05
+Un rêve plus rouge que rouge
+boss07
+Capriccio pour jeune fille
+
+
+@83
+Obtenu : Pic d'accélération
+Vous pouvez désormais faire une accélération en appuyant 2 fois à la suite sur une touche de direction.
+
+@94
+Obtenu : Magatama de glace
+Annule l'effet des barrières de feu.
+
+@06
+Dagues rebondissantes
+Projette des dagues qui rebondissent sur les murs.
+
+
+
+
+#s56
+$0101#player_vision
+Une porte sacrée... ?
+Et une blanche, en plus...
+Où peut-elle bien mener ?
+#end
+
+#s57
+$0303#nitori_stage05_ivent
+Salut, humaine. Ça va comme tu veux ?
+$0101#player_vision
+Oh, Nitori...*Tu veux encore vendre des choses, n'est-ce pas ?
+$0303#nitori_stage05_ivent
+V-Vendre des choses... ?
+$0101#player_vision
+Ou peut-être es-tu encore à la recherche de gemmes ?
+$0303#nitori_stage05_ivent
+Des gemmes ? Pourquoi est-ce que ça m'intéresserait ?
+Tout ce qui m'intéresse, c'est la mécanique.
+$0101#player_vision
+... ?
+$0303#nitori_stage05_ivent
+Mais peu importe, l'heure est grave !
+$0101#player_vision
+Que se passe-t-il ?
+$0303#nitori_stage05_ivent
+Ce monde est en train de tomber en ruine !
+$0101#player_vision
+En ruine ?! Mais pourquoi... ?
+$0303#nitori_stage05_ivent
+Je ne sais pas en détail...*Peut-être que les plans de conception de Luna Nights comprenaient des failles...
+Non, ça ne peut pas être ça...
+$0101#player_vision
+« Luna Nights »... ? Des plans de conceptions ? De quoi parles-tu ?
+$0303#nitori_stage05_ivent
+Peu importe, un monde de chaos flotte au-dessus de nos têtes, dans le ciel.
+C'est sans doute la cause de tout cela.
+$0101#player_vision
+U-Un monde de chaos... ?
+$0303#nitori_stage05_ivent
+Ce monde ne fait pas partie des plans de base. Il représente un danger.*Quelqu'un doit aller enquêter à son sujet.
+Je m'occuperai de corriger les plans.*Humaine... Tu ne voudrais pas y jeter un coup d'œil pour moi ?
+$0101#player_vision
+U-Une petite minute...
+$0303#nitori_stage05_ivent
+Il semblerait que cette porte sacrée blanche y mène.
+Je compte sur toi !
+#end
+
+
+#s58
+$0101#player_vision
+« Je compte sur toi », hein...*Pff... Que faire ?
+Quand quelqu'un n'essaie pas de prendre le contrôle du monde,*il menace de tomber en ruine...
+La création de Dame Remilia est encore sens dessus dessous...
+#end
+
+#s59
+$0101#player_vision
+Voilà donc le monde de chaos...
+J'ai l'impression d'avoir déjà vu ces constructions quelque part...
+Ce monde est en train de tomber en ruine...
+Il va falloir faire vite !
+#end
+
+#s60
+$0303#nitori_stage05_ivent
+Salut, humaine !
+$0101#player_vision
+Ah, Nitori !
+Tu es venue me donner un coupon Kappa ?
+$0303#nitori_stage05_ivent
+Un coupon Kappa... ?*C'est quoi, ça ?
+$0101#player_vision
+Hein... ?
+$0303#nitori_stage05_ivent
+Ce que je suis venue te donner, c'est des informations.
+$0101#player_vision
+Ah oui ?
+$0303#nitori_stage05_ivent
+Il semblerait qu'une intruse se soit immiscé dans le monde de chaos.
+$0101#player_vision
+Une intruse... ?
+Peut-être que Marisa est venue emprunter un livre.
+$0303#nitori_stage05_ivent
+Non, ce n'est pas elle...*Il semblerait que cette intruse en ait après Remilia.
+$0101#player_vision
+Dame Remilia ?*C'est une menace qu'on ne peut ignorer...
+Mais pourquoi en avoir après elle ?
+$0303#nitori_stage05_ivent
+Ce monde s'appelle Luna Nights.*C'est une réplique d'une partie du Gensokyo.
+$0101#player_vision
+Maintenant que tu le dis, Remilia m'en avait parlé...
+$0303#nitori_stage05_ivent
+Cependant, quelqu'un en a trafiqué les paramètres,*ce qui a causé l'apparition d'un monde instable à l'intérieur même de Luna Nights.
+L'existence de ce monde aurait même*des conséquences sur le vrai Gensokyo.
+$0101#player_vision
+Et donc, pourquoi prendre Dame Remilia pour cible ?
+$0303#nitori_stage05_ivent
+J'imagine que cette personne veut se débarrasser de Remilia*afin de faire disparaître Luna Nights.
+$0101#player_vision
+Je n'aime pas ça...*Sans Dame Remilia, nous serions dans de beaux draps.
+$0303#nitori_stage05_ivent
+Exactement... Seul l'esprit de Remilia peut régler la situation comme il se doit.
+S'il est détruit de force,*j'imagine que toutes les personnes s'y trouvant vont aussi disparaître.
+$0101#player_vision
+Laisse-moi faire... Je vais m'occuper de cette trouble-fête !
+$0303#nitori_stage05_ivent
+Le temps nous est compté, humaine !
+#end
+
+#s61
+$0101#player_vision
+Mais tu es... Reimu !!
+C'est toi, l'intruse ?!
+$1010#NSenemy_0_0a
+Hé ! C'est pas cool de traiter les gens d'intrus comme ça !
+Surtout quand c'est vous qui causez des problèmes !
+$0101#player_vision
+C-Comment ça ?
+$1010#NSenemy_0_0a
+Vous avez créé une réplique de Gensokyo,*et le Gensokyo du monde réel en paie les conséquences !
+Le sanctuaire Hakurei a aussi été reproduit,*et ça a déclenché un incident.
+Ma barrière ne sert plus à rien à cause de vous !
+$0101#player_vision
+Et à cause de cela, tu cherches à faire disparaître ce monde...
+Dame Remilia comptait s'en occuper*une fois le jeu terminé.
+Cependant, les choses ne se sont pas déroulées*exactement comme prévu...
+$1010#NSenemy_0_0a
+Exactement !*Voilà ce qui arrive quand on vous laisse faire !
+$0101#player_vision
+Je suis sûre que cette situation ne convient pas à Dame Remilia non plus.
+Pourrais-tu attendre encore un petit peu ?
+Je vais tout faire pour trouver la cause du problème le plus rapidement possible.
+$1010#NSenemy_0_0a
+Ah non, je vais détruire ce monde sur-le-champ.
+Ensuite, j'irai voir Remilia pour lui faire goûter mon poing !
+$0101#player_vision
+On dirait bien que la discussion ne nous mènera à rien...
+Dans ce cas, je t'arrêterai par la force !
+#end
+
+
+
+#t62
+$0101#player_vision
+Je ne te laisserai pas faire !
+$1010#NSenemy_0_0a
+Oh, mais tu n'as encore rien vu !
+#end
+
+#t63
+$1010#NSdestroy_0_0a
+Ouah... ! Tu te débrouilles pas mal !
+#end
+
+#s64
+$1010#NSenemy_0_1a
+Tu veux vraiment me mettre des bâtons dans les roues, hein...
+Il va falloir que je me retrousse réellement les manches.
+$0101#player_vision
+Reimu...*Tiens-tu tant que ça à détruire ce monde ?
+$1010#NSenemy_0_1a
+Bien sûr...*Tu ne pourras pas m'arrêter, tu sais.
+$0101#player_vision
+Dans ce cas, je vais aussi donner tout ce que j'ai.
+$1010#NSenemy_0_1a
+Ah, car ce n'était pas ta puissance maximale ?
+$0101#player_vision
+Bien sûr que non. Les choses sérieuses commencent maintenant !
+#end
+
+#t65
+$1010#NSdestroy_0_1a
+Noooon !
+#end
+
+#s66
+$1010#NSdestroy_0_1a
+J-Je suis... impressionnée...
+Mais je croyais que tes pouvoirs avaient été limités...
+Comment fais-tu cela...
+$0101#player_vision
+C'est dans la difficulté que l'on grandit...
+Le monde qu'a créé Dame Remilia m'a renforcée...*jusqu'à te surpasser, apparemment.
+#end
+
+#s67
+$0101#player_vision
+Dame Remilia !
+Et... hein ?
+Il y a deux Nitori ?!
+$0303#nitori_stage05_ivent
+Oh, mais cette personne n'est pas moi, juste une usurpatrice.
+$0505#remi_stage05_ivent
+Flandre... C'est toi, n'est-ce pas ?
+$0101#player_vision
+Mademoiselle Flandre ?! Impossible !
+$0308#fran_stage05_ivent
+Ha ha ha ! Je vois que tu m'as reconnue !
+#end
+
+#s68
+$0808#fran_stage05_ivent
+Quand je pense que Sakuya n'y a vu que du feu...*Ce que tu peux être bête, parfois !
+$0101#player_vision
+Mademoiselle Flandre, pourquoi vous faire passer pour Nitori... ?
+$0808#fran_stage05_ivent
+Parce que vous continuez de vous amuser sans moi...
+On me laisse toujours de côté !
+Je vous déteste, Remilia, Patche et toi !
+$0303#nitori_stage05_ivent
+Tu te trompes, Flandre.
+$0808#fran_stage05_ivent
+Hein... ?! Qu'est-ce que tu veux dire ?
+$0303#nitori_stage05_ivent
+Remilia a créé Luna Nights pour toi.
+$0808#fran_stage05_ivent
+P-Pour moi... ?
+$0505#remi_stage05_ivent
+Désolée de ne t'avoir rien dit, Flandre...
+$0101#player_vision
+Que voulez-vous dire ?
+$0505#remi_stage05_ivent
+Flandre a beaucoup d'énergie à revendre...
+Il est difficile de se dépenser en étant enfermée dans le manoir, n'est-ce pas ?
+C'est pour cela que j'ai pensé à unir mes forces avec celles de Patche*pour créer un monde virtuel dans lequel elle pourrait se dépenser à sa guise.
+$0303#nitori_stage05_ivent
+C'est ainsi qu'est né Luna Nights.
+Quant à moi, je suis celle qui a conçu Luna Nights*à la demande de Patchouli.
+Jamais je n'aurais pensé que Flandre entrerait dans ce monde*et se ferait passer pour moi !
+$0808#fran_stage05_ivent
+C'était donc... pour cela...
+$1010#NSdestroy_0_1a
+Attendez une seconde !
+Peut-être que tout cela vous arrange,*mais ce n'est pas mon cas !
+Un incident s'est déclenché*dans le sanctuaire Hakurei du monde réel, je vous signale !
+$0303#nitori_stage05_ivent
+Désolée pour les problèmes que nous t'avons causés.
+Je n'avais pas pensé à la dimension spirituelle, c'est hors de ma portée.
+$1010#NSdestroy_0_1a
+M-Mais... !
+#end
+
+#s69
+$0101#player_vision
+Q-Que se passe-t-il ?!
+$0303#nitori_stage05_ivent
+Ce monde va bientôt atteindre ses limites...
+$1010#NSdestroy_0_1a
+Comment ça ?!
+$0303#nitori_stage05_ivent
+L'ampleur de votre combat sans répit a ébranlé ce monde.
+Il n'était pas prévu lors de la conception, après tout.
+Sa structure reste fragile...
+$0505#remi_stage05_ivent
+Nous ferions mieux de fuir...
+#end
+
+
+#s70
+$0101#player_vision
+D-Dame Remilia ?! Et toi aussi, Nitori ?!
+Au cas où vous l'auriez oublié, je n'ai pas mes pouvoirs*dans ce monde, je ne peux donc pas voler !!!
+#end
+
+#s71
+$0101#player_vision
+J-Je n'ai pas le choix, je dois monter là-dedans...
+#end
+
+
+
+#s72
+$0303#nitori_stage06_ivent
+Salut, humaine.
+$0101#player_vision
+Ah, c'est toi, Nitori...
+Ou bien serait-ce Mademoiselle Flandre ?
+$0303#nitori_stage06_ivent
+Non, je suis la vraie Nitori.
+$0101#player_vision
+Ah, désolée.
+Où sommes-nous ?*Il y a vraiment beaucoup de machines, ici...
+$0303#nitori_stage06_ivent
+Nous sommes dans la salle de réalité virtuelle.
+$0101#player_vision
+Pardon ?
+$0303#nitori_stage06_ivent
+Une salle contenant un monde virtuel basé sur Luna Nights.
+$0101#player_vision
+Je ne comprends pas ce que tu veux dire.
+$0303#nitori_stage06_ivent
+Grâce à cette réalité virtuelle, tu pourras défier tous les boss*que tu as rencontrés jusqu'ici à la suite.
+$0101#player_vision
+Vraiment ?
+$0303#nitori_stage06_ivent
+Oui, enfin pas les vrais boss, hein, mais presque.
+$0101#player_vision
+Je ne suis pas sûre de comprendre le système,*mais ça a l'air amusant.
+$0303#nitori_stage06_ivent
+Pas vrai ? N'hésite pas à tenter l'expérience.
+Pour commencer, tu as juste à entrer dans la cabine, là-bas.
+#end
+
+
+
+
+
+#s73
+$0505+1#mark00
+La porte sacrée blanche a été déverrouillée.
+#end
+
+#s74
+$0505+1#mark00
+Le mode Boss Rush a été ajouté dans le magasin.
+#end
+
+
+
+
+////////////////////////////7777777//////////////////////////////
+
+
+
+
+
+#s75
+$0101#player_vision
+Tiens ? Mais que vient faire dans le coin*la Fée des Glaces du lac ?
+$1111#NSenemy_0_3a
+T'es en retard, la bonniche !
+Tu sais depuis quand je t'attends, moi ?!
+$0101#player_vision
+Désolée pour le retard...*Mais en retard pour quoi, au juste ?
+$1111#NSenemy_0_3a
+Tu vas pas en revenir !*Figure-toi que je suis... un BOSS !
+$0101#player_vision
+Tu veux dire...*que Dame Remilia t'a demandé de l'aide ?
+$1111#NSenemy_0_3a
+Ex-ac-te-ment !
+Et si je te bats, j'aurai une belle récompense !
+$0101#player_vision
+J'ai une mauvaise nouvelle pour toi...*mais le jeu est terminé, là !
+Cette dimension est en train de disparaître,*c'est dangereux !
+Alors partons avant de finir réduites à néant !
+$1111#NSenemy_0_3a
+Hein ? Quoi ? Tu as peur de moi, c'est ça ?
+C'est normal après tout...*T'as perdu tes pouvoirs, haha !
+$0101#player_vision
+Non, ce n'est pas ce que...
+$1111#NSenemy_0_3a
+Je ne te laisserai pas m'échapper !
+Tu as raison, le jeu va se terminer...*quand je t'aurai battue avec mon attaque ultime !
+$0101#player_vision
+Ah... Je vois que tu ne me laisses pas le choix...
+Mais c'est toi qui m'attaque,*alors pas de cadeau !
+#end
+
+#t76
+$1111#NSenemy_0_3a
+N-Non, ce n'est pas fini !
+$0101#player_vision
+Tu t'en sors bien...
+Dame Remilia n'aurait-elle pas augmenté*légèrement tes pouvoirs, par hasard ?
+#end
+
+#t77
+$1111#NSdestroy_0_3a
+Nooooooooon !
+#end
+
+#s78
+$1111#NSdestroy_0_3a
+Mais t'es pas du tout affaiblie, en fait !
+C'est pas juste ! C'est de la triche !
+$0101#player_vision
+Triche ou pas, je peux t'assurer que*je ne perdrai jamais contre une fée.
+Mais je dois avouer que je ne m'attendais pas*à ce que tu sois aussi coriace...
+Je suis sûre que Dame Remilia doit te trouver très forte,*pour t'avoir placée dans ce niveau...
+$1111#NSdestroy_0_3a
+De quoi ?*Attends, c'est pas le niveau 1, ici ?
+$0101#player_vision
+...
+Tu ne te serais pas....*perdue, par hasard ?
+$1111#NSdestroy_0_3a
+Mais... Mais moi, je cherchais juste un coin*pour construire mon château...
+$0101#player_vision
+Ah là là, je te jure...*Bon, je te fais une fleur pour cette fois.
+Le combat est fini de toutes façons,*alors partons vite d'ici !
+$1111#NSdestroy_0_3a
+D'a.... d'accord...
+#end
+
+
+
+#s79
+$0505#NSenemy_0_47
+Hi hi hi ! Comme on se retrouve.
+$0101#player_vision
+D-Dame Remilia ?!
+Q-Que se passe-t-il... ?
+$0505#NSenemy_0_47
+Sakuya, tu commences à baisser ta garde...
+Tu n'as pas sauvegardé depuis tout à l'heure, pas vrai ?
+$0101#player_vision
+D-Désolée... Dans la hâte, j'ai oublié...
+$0505#NSenemy_0_47
+N'oublie pas qu'il n'y a pas de sauvegarde automatique dans ce jeu.
+Il faut savoir se protéger soi-même...
+#end
+
+
+
+
++switchwake
+Veuillez jouez dans le mode de jeu ci-dessous :
+Appuyez sur un bouton pour commencer le jeu.
+
+boss08
+Beloved Tomboyish Daughter
+
+
+
+
