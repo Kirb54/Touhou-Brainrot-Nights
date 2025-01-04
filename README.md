@@ -11,6 +11,6 @@ Intructions:
    ![image](https://github.com/user-attachments/assets/4e3c1a94-435e-48f4-a5e4-a51eea4b275b)
 
 
-3. replace the data folder in luna nights with the modded folder (drag and drop it over)
+3. replace the data folder in luna nights with the modded folder (make sure to click "replace all files in destination")
 
    
